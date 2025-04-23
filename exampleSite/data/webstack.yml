@@ -1,83 +1,106 @@
 - taxonomy: 导航
   icon: fa-compass
   links:
+  - title: fre123导航
+    url: https://fre123.com/
+    description: FRE123 免费资源共享平台
+    logo: assets/images/logos/7ee22e4c7dfb94b9af447b1041b2af70.vnd.microsoft.icon
+    
   - title: 果汁排行榜
     url: http://guozhivip.com/rank/
     logo: assets/images/logos/gz.png
     description: 果汁排行榜 - 各类榜单排名大全
+
   - title: 优设导航
     url: https://hao.uisdc.com/
     description: 优设导航官网 - 设计导航 - 国内专业设计师网站导航
     logo: assets/images/logos/hao_uisdc_com.png
+
   - title: 网盘资源整合导航
     url: https://www.wowenda.com/
     description: 阿里云盘资源搜索-百度网盘搜索引擎 - 网盘之家导航
     logo: assets/images/logos/www_wowenda_com.png
+
   - title: 有趣网站之家
     url: https://youquhome.com/
     description: 有趣网址之家 - 收藏全球最有趣的网站
     logo: assets/images/logos/youquhome_com.png
+
   - title: 考拉新媒体导航
     url: https://www.kaolamedia.com/hot
     description: 微博热搜榜|百度热点资讯-新媒体热点话题-考拉新媒体导航
     logo: assets/images/logos/www_kaolamedia_com.png
+
   - title: AI导航站
     url: https://www.ainav.cn/
     description: AI导航网官网 - 国内外1000+AI工具,发现好用AI,为你导航未来
     logo: assets/images/logos/www_ainav_cn.png
+
   - title: AI 工具集
     url: https://ai-bot.cn/
     description: AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全
     logo: assets/images/logos/ai-bot-favicon.png
+
   - title: 大数据导航
     url: http://hao.199it.com/
     description: 大数据导航-大数据工具导航-199IT大数据导航-199IT大数据工具导航-Hao.199it.com
     logo: assets/images/logos/hao_199it_com.png
+
   - title: 营销热点日历
     url: https://www.adguider.com/calendar
     description: 营销热点日历
     logo: assets/images/logos/www_adguider_com.png
+
   - title: 果壳-科普网站
     url: https://www.guokr.com/
     description: 果壳 科技有意思
     logo: assets/images/logos/www_guokr_com.png
+
   - title: 医学微观
     url: https://www.mvyxws.cn/
     description: 医学微视
     logo: assets/images/logos/www_mvyxws_cn.png
+
   - title: 走读派-电子书导航
     url: http://www.zoudupai.com/
     description: 走读派读书导航 - 读书学习第一站！
     logo: assets/images/logos/default.png
+
   - title: 龙轩导航
     url: http://ilxdh.com/
     description: 龙轩导航-做个有用的导航
     logo: assets/images/logos/ilxdh_com.png
+
   - title: 52破解论坛
     url: https://www.52pojie.cn/forum.php
     description: 吾爱破解 - 52pojie.cn
     logo: assets/images/logos/www_52pojie_cn.png
+
   - title: 菜鸟工具
     url: https://www.jyshare.com/
     description: 菜鸟工具 - 不止于工具
     logo: assets/images/logos/www_jyshare_com.png
+
   - title: 在线工具
     url: https://tool.lu/
     description: 在线工具 - 你的工具箱
     logo: assets/images/logos/tool_lu.png
+
   - title: 在线工具
     url: http://www.hiencode.com/
     description: CTF在线工具-CTF工具|CTF编码|CTF密码学|CTF加解密|程序员工具|在线编解码
     logo: assets/images/logos/www_hiencode_com.png
+
   - title: wikiHow
     url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
     description: wikiHow：你可以信赖的万事指南
     logo: assets/images/logos/zh_wikihow_com.png
+
   - title: 图虫
     url: https://search.chongbuluo.com/
     description: 虫部落快搜 - 搜索快人一步
     logo: assets/images/logos/search_chongbuluo_com.png
-  
+
 - taxonomy: 新闻资讯
   icon: fa-newspaper-o
   links:
@@ -197,7 +220,7 @@
     url: https://www.cnnic.net.cn/
     description: cnnic.net.cn
     logo: assets/images/logos/www_cnnic_net_cn.png
-  
+
 - taxonomy: 趋势动态
   icon: fa-line-chart
   links:
@@ -221,121 +244,6 @@
     url: https://index.baidu.com/v2/index.html#/
     description: 百度指数
     logo: assets/images/logos/index_baidu_com.png
-  
-- taxonomy: 二维码
-  icon: fa-qrcode
-  links:
-  - title: 尼玛二维码-工具站
-    url: https://nima.vip/
-    description: 二维码生成器-二维码在线生成工具-尼玛二维码（唯凡科技）
-    logo: assets/images/logos/vfan.ico
-  - title: 微微二维码
-    url: https://www.wwei.cn/weixin
-    description: 公众号、个人微信二维码美化-微微二维码
-    logo: assets/images/logos/www_wwei_cn.png
-  - title: 联图-二维码生成
-    url: https://www.liantu.com/
-    description: 在线二维码图片生成器_二维码扫描软件下载_联图二维码
-    logo: assets/images/logos/www_liantu_com.png
-  - title: 草料二维码
-    url: https://cli.im/text
-    description: 草料文本二维码生成器
-    logo: assets/images/logos/cli_im.png
-  - title: 本地搜索工具-everything
-    url: https://www.voidtools.com/zh-cn/
-    description: voidtools
-    logo: assets/images/logos/www_voidtools_com.png
-  - title: 中国气象局.天气预报
-    url: https://weather.cma.cn/web/weather/53698-sjz.html
-    description: weather.cma.cn
-    logo: assets/images/logos/weather_cma_cn.png
-  - title: 登山-结绳
-    url: https://www.animatedknots.com/climbing-knots
-    description: Climbing Knots by Grog | Learn How to Tie Climbing Knots using Step-by-Step
-      Animations | Animated Knots by Grog
-    logo: assets/images/logos/www_animatedknots_com.png
-  - title: 定位IP地址
-    url: https://dingweilishi.com/
-    description: ip段定位历史 定位记录 C段定位历史 定位历史
-    logo: assets/images/logos/dingweilishi_com.png
-  - title: 便民查询
-    url: https://www.bmcx.com/
-    description: 便民查询网 - 免费查询工具大全 - 原51240便民查询网
-    logo: assets/images/logos/www_bmcx_com.png
-  - title: 十分钟邮箱
-    url: https://10minutemail.net/m/?lang=zh-cn
-    description: 10分钟邮箱 - 10 Minute Mail
-    logo: assets/images/logos/10minutemail_net.png
-  - title: PDF转换工具
-    url: https://www.ilovepdf.com/
-    description: iLovePDF | Online PDF tools for PDF lovers
-    logo: assets/images/logos/www_ilovepdf_com.png
-  - title: 配音神器
-    url: https://peiyinshenqi.com/
-    description: 配音神器pro网页版 - 文字转语音软件 | 专业配音工具
-    logo: assets/images/logos/peiyinshenqi_com.png
-  - title: 文件空投
-    url: https://www.airportal.cn/
-    description: AirPortal 空投快传
-    logo: assets/images/logos/www_airportal_cn.png
-  - title: 无限邮箱
-    url: https://www.2925.com/login/
-    description: 2925邮箱-无限邮
-    logo: assets/images/logos/www_2925_com.png
-  - title: 模拟攒机
-    url: https://zj.zol.com.cn/
-    description: 【模拟攒机－模拟装机】在线攒电脑－ZOL中关村在线
-    logo: assets/images/logos/zj_zol_com_cn.png
-  
-- taxonomy: 影视资源
-  icon: fa-film
-  links:
-  - title: 电影推荐
-    url: https://www.mvcat.com/
-    description: 电影推荐 · MVCAT
-    logo: assets/images/logos/www_mvcat_com.png
-  - title: cobalt下载
-    url: https://cobalt.tools/
-    description: 一款全能的视频下载工具
-    logo: assets/images/logos/cobalt.png
-  - title: 新片场
-    url: https://www.xinpianchang.com/
-    description: 新片场 - 与百万创作人一起成长，用作品打动世界
-    logo: assets/images/logos/www_xinpianchang_com.png
-  - title: 视频下载工具
-    url: https://savevideo.me/us/
-    description: SAVEVIDEO.ME - Download Facebook Video, Vimeo, Twitter Video, Instagram,
-      TikTok and more!
-    logo: assets/images/logos/savevideo_me.png
-  - title: 视频转换工具
-    url: https://videoconverter.wondershare.com/convert/mp4-converter-downloader.html
-    description: Best 6 Keepvid Alternatives to Convert Your Online Video to MP4
-    logo: assets/images/logos/videoconverter_wondershare_com.png
-  - title: 油管视频下载工具
-    url: https://www.clipconverter.cc/3/
-    description: YouTube to MP4 & MP3 Converter - ClipConverter.cc
-    logo: assets/images/logos/www_clipconverter_cc.png
-  - title: m3u8文件测试
-    url: http://www.86y.org/m3u8test.html
-    description: m3u8地址测试
-    logo: assets/images/logos/www_86y_org.png
-  - title: 油管视频Remix
-    url: https://rave.dj/
-    description: RaveDJ - Music Mixer
-    logo: assets/images/logos/rave_dj.png
-  - title: 海盗湾-电影资源
-    url: https://thepiratebay.org/index.html
-    description: Download music, movies, games, software! The Pirate Bay - The galaxy's
-      most resilient BitTorrent site
-    logo: assets/images/logos/thepiratebay_org.png
-  - title: newCGer-AE模板
-    url: https://www.newcger.com/
-    description: 新CG儿 - 数字视觉分享平台 | AE模板_视频素材_免费下载
-    logo: assets/images/logos/www_newcger_com.png
-  - title: 来画，数字动画平台
-    url: https://www.laihua.com/animation
-    description: 来画动画-动画和数字人智能生成平台
-    logo: assets/images/logos/www_laihua_com.png
   
 - taxonomy: 英语学习
   icon: fa-language
@@ -403,518 +311,6 @@
     description: 'Localingual: listen to the voices of the world'
     logo: assets/images/logos/localingual_com.png
   
-- taxonomy: 编程开发
-  icon: fa-code
-  links:
-  - title: 代码荣耀-杰夫伍德
-    url: https://blog.codinghorror.com/
-    description: Coding Horror
-    logo: assets/images/logos/blog_codinghorror_com.png
-  - title: CTF-wiki
-    url: https://ctf-wiki.org/
-    description: 简介 - CTF Wiki
-    logo: assets/images/logos/ctf-wiki_org.png
-  - title: 安全KER
-    url: https://www.anquanke.com/
-    description: 安全KER - 安全资讯平台
-    logo: assets/images/logos/www_anquanke_com.png
-  - title: Hack街
-    url: https://www.hackjie.com/
-    description: Hack街-黑客街-黑客技术入门-黑客零基础入门导航-网络安全爱好者的安全导航 | 黑客
-    logo: assets/images/logos/www_hackjie_com.png
-  - title: Web安全学习笔记
-    url: https://websec.readthedocs.io/zh/latest/index.html#
-    description: Web安全学习笔记 — Web安全学习笔记 1.0 文档
-    logo: assets/images/logos/websec_readthedocs_io.png
-  - title: 看雪-网络安全论坛
-    url: https://www.kanxue.com/
-    description: 看雪学苑-看雪-安全培训|安全招聘|www.kanxue.com
-    logo: assets/images/logos/www_kanxue_com.png
-  - title: 先知社区
-    url: https://xz.aliyun.com/news
-    description: 先知社区
-    logo: assets/images/logos/xz_aliyun_com.png
-  - title: CTF-Tools
-    url: https://www.ctftools.com/
-    description: CTF资源库|CTF工具下载|CTF工具包|CTF工具集合
-    logo: assets/images/logos/www_ctftools_com.png
-  - title: 黑客资讯
-    url: https://hackernews.cc/
-    description: hackernews.cc
-    logo: assets/images/logos/hacknews.ico
-  - title: 黑客新闻
-    url: https://news.ycombinator.com/news
-    description: news.ycombinator.com
-    logo: assets/images/logos/news_ycombinator_com.png
-  - title: BUFF网站-CTF
-    url: https://buuoj.cn/users
-    description: BUUCTF在线评测
-    logo: assets/images/logos/buuoj_cn.png
-  
-- taxonomy: 打字输入
-  icon: fa-keyboard-o
-  links:
-  - title: typingclub
-    url: https://www.edclub.com/typingclub
-    description: 进阶打字速度练习，很休闲
-    logo: assets/images/logos/edclub.png
-  - title: 程序员版打字练习
-    url: https://www.speedcoder.net/lessons/
-    description: Typing Practice for Programmers | SpeedCoder
-    logo: assets/images/logos/www_speedcoder_net.png
-  - title: 打字练习测速
-    url: https://www.zaixiandazi.com/type/test/1000/2
-    description: 在线打字测试网 - The Cats of Roma 罗马印象
-    logo: assets/images/logos/www_zaixiandazi_com.png
-  - title: 打字速度测试
-    url: https://10fastfingers.com/typing-test/english
-    description: Typing Test English - 10FastFingers.com
-    logo: assets/images/logos/10fastfingers_com.png
-  - title: 打字练习
-    url: https://www.keybr.com/
-    description: Practice
-    logo: assets/images/logos/www_keybr_com.png
-  - title: 打字游戏
-    url: https://zty.pe/
-    description: ZType – Typing Game - Type to Shoot
-    logo: assets/images/logos/zty_pe.png
-  - title: 打字大师
-    url: https://www.typingmaster.com/
-    description: Typing Master - Learn To Type & Test Your Skills
-    logo: assets/images/logos/www_typingmaster_com.png
-  - title: 打字吧
-    url: http://www.daziba.cn/
-    description: 在线打字吧-我要学打字-在线指法拼音五笔搜狗打字,打字比赛测试,听打练习,打字训练软件网站
-    logo: assets/images/logos/www_daziba_cn.png
-  - title: typing.io
-    url: https://typing.io/lesson/java/guava/Collections2.java/1
-    description: 'Typing Test in Java: Practice typing Java'
-    logo: assets/images/logos/typing_io.png
-  
-- taxonomy: 机场梯子
-  icon: fa-plane
-  links:
-  - title: 毒药，机场手册
-    url: https://duyaoss.com/
-    description: DuyaoSS-机场测速和简介
-    logo: assets/images/logos/default.png
-  - title: 几鸡
-    url: https://xfltd.org/
-    description: XFLTD
-    logo: assets/images/logos/xfltd_org.png
-  
-- taxonomy: 镜像下载
-  icon: fa-cloud-download
-  links:
-  - title: 腾讯软件源-镜像
-    url: https://mirrors.cloud.tencent.com/
-    description: 腾讯软件源
-    logo: assets/images/logos/default.png
-  - title: windows镜像
-    url: https://www.imsdn.cn/
-    description: MSDN原版系统,纯净镜像,MSDN ISO下载 - 我的MSDN
-    logo: assets/images/logos/www_imsdn_cn.png
-  - title: 清华镜像站
-    url: https://mirrors.tuna.tsinghua.edu.cn/
-    description: 清华大学开源软件镜像站 | Tsinghua Open Source Mirror
-    logo: assets/images/logos/mirrors_tuna_tsinghua_edu_cn.png
-  - title: 镜像清单
-    url: https://jaycechant.info/list/mirror-list/
-    description: 开源软件 和 开发工具 镜像清单 | 存档Save&Load
-    logo: assets/images/logos/jaycechant_info.png
-  
-- taxonomy: H5开发
-  icon: fa-html5
-  links:
-  - title: H5在线制作-营销H5
-    url: https://www.ih5.cn/not-logged-in
-    description: iH5专业的H5制作工具
-    logo: assets/images/logos/www_ih5_cn.png
-  - title: H5学习平台
-    url: https://www.ivx.cn/?type=learner
-    description: iVX—人人都能掌握的可视化编程语言-ivx官网
-    logo: assets/images/logos/www_ivx_cn.png
-  - title: 程序员学习
-    url: https://www.freecodecamp.org/
-    description: freeCodeCamp.org
-    logo: assets/images/logos/www_freecodecamp_org.png
-  - title: 程序员博客
-    url: https://www.paulgraham.com/articles.html
-    description: Essays
-    logo: assets/images/logos/www_paulgraham_com.png
-  - title: MackTalk 随想录
-    url: https://macshuo.com/
-    description: MacTalk-池建强的随想录 | 让创作成为一种生活方式
-    logo: assets/images/logos/macshuo_com.png
-  - title: 开源中国社区
-    url: https://www.oschina.net/
-    description: OSCHINA - 中文开源技术交流社区
-    logo: assets/images/logos/www_oschina_net.png
-  - title: IType java编程
-    url: https://www.iteye.com/
-    description: ITeye Java编程 Spring框架 Ajax技术 agile敏捷软件开发 ruby on rails实践 - ITeye软件开发交流社区
-    logo: assets/images/logos/www_iteye_com.png
-  - title: CSDN社区
-    url: https://blog.csdn.net/
-    description: CSDN博客-专业IT技术发表平台
-    logo: assets/images/logos/blog_csdn_net.png
-  - title: 博客园
-    url: https://www.cnblogs.com/
-    description: 博客园 - 开发者的网上家园
-    logo: assets/images/logos/www_cnblogs_com.png
-  - title: 脚本之家
-    url: https://www.jb51.net/
-    description: 脚本之家_www.jb51.net
-    logo: assets/images/logos/www_jb51_net.png
-  - title: BootCDN
-    url: https://www.bootcdn.cn/
-    description: BootCDN - Bootstrap 中文网开源项目免费 CDN 加速服务 铂特优选
-    logo: assets/images/logos/www_bootcdn_cn.png
-  - title: jQuery
-    url: https://jquery.com/
-    description: jQuery
-    logo: assets/images/logos/jquery_com.png
-  - title: Bootstrap
-    url: https://www.bootcss.com/
-    description: Bootstrap中文网
-    logo: assets/images/logos/www_bootcss_com.png
-  - title: Dcloud
-    url: https://www.dcloud.io/
-    description: DCloud - 数字天堂官网、HBuilderX、HBuilder、uni-app、uniapp、5+、5plus、mui、wap2app、流应用、HTML5、小程序开发、跨平台App、多端框架
-    logo: assets/images/logos/www_dcloud_io.png
-  - title: vim学习
-    url: https://wsgzao.github.io/post/vim/
-    description: Vim从小白到入门 | HelloDog
-    logo: assets/images/logos/wsgzao_github_io.png
-  - title: vim手册
-    url: https://vimcdoc.sourceforge.net/doc/change.html#CTRL-A
-    description: 'VIM 中文帮助: 删除和替换文本'
-    logo: assets/images/logos/default.png
-  - title: 通过游戏学习vim操作
-    url: https://vim-adventures.com/
-    description: Learn VIM while playing a game - VIM Adventures
-    logo: assets/images/logos/default.png
-  - title: windows键盘快捷方式
-    url: https://support.microsoft.com/zh-cn/windows/windows-%E7%9A%84%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F-dcc61a57-8ff0-cffe-9796-cb9706c75eec#copilot
-    description: Windows 的键盘快捷方式 - Microsoft 支持
-    logo: assets/images/logos/support_microsoft_com.png
-  - title: 鸟哥Linux私房菜
-    url: https://linux.vbird.org/linux_basic/
-    description: 鳥哥私房菜 - Linux 基礎學習篇各年份各版本的學習資料
-    logo: assets/images/logos/linux_vbird_org.png
-  - title: 思否-开发
-    url: https://segmentfault.com/
-    description: SegmentFault 思否
-    logo: assets/images/logos/segmentfault_com.png
-  - title: 可视化数据结构和算法
-    url: https://visualgo.net/zh
-    description: 通过动画可视化数据结构和算法<br> - VisuAlgo
-    logo: assets/images/logos/visualgo_net.png
-  - title: Chrome DevTools
-    url: https://developer.chrome.com/docs/devtools?hl=zh-cn
-    description: Chrome DevTools  |  Chrome for Developers
-    logo: assets/images/logos/developer_chrome_com.png
-  - title: 设计模式
-    url: https://refactoringguru.cn/design-patterns
-    description: 常用设计模式有哪些？
-    logo: assets/images/logos/refactoringguru_cn.png
-  - title: stack-overflow
-    url: https://stackoverflow.com/questions
-    description: Newest Questions - Stack Overflow
-    logo: assets/images/logos/stackoverflow_com.png
-  - title: 程序员手册
-    url: https://github.com/CyC2018/CS-Notes
-    description: 'GitHub - CyC2018/CS-Notes: :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计'
-    logo: assets/images/logos/github_com.png
-  - title: Linux
-    url: https://www.linux.org/
-    description: linux.org
-    logo: assets/images/logos/linux_favicon.ico
-  - title: Linux教程
-    url: https://linuxtools-rst.readthedocs.io/zh-cn/latest/base/index.html
-    description: Linux基础 — Linux Tools Quick Tutorial
-    logo: assets/images/logos/linuxtools-rst_readthedocs_io.png
-  - title: 技能图谱
-    url: https://github.com/TeamStuQ/skill-map?tab=readme-ov-file
-    description: 'GitHub - TeamStuQ/skill-map: 程序员技能图谱'
-    logo: assets/images/logos/github_com.png
-  - title: 脚本之家-手册
-    url: https://shouce.jb51.net/
-    description: html在线手册_javascript在线手册_jquery在线手册_php在线手册_java在线手册 - 脚本之家
-    logo: assets/images/logos/default.png
-  - title: git手册
-    url: https://git-scm.com/book/zh/v2
-    description: Git
-    logo: assets/images/logos/git-scm_com.png
-  - title: w3 选择器
-    url: https://www.w3.org/TR/selectors-3/#only-of-type-pseudo
-    description: Selectors Level 3
-    logo: assets/images/logos/www_w3_org.png
-  - title: MediaTypes
-    url: https://www.iana.org/assignments/media-types/media-types.xhtml
-    description: Media Types
-    logo: assets/images/logos/www_iana_org.png
-  - title: 极客导航
-    url: https://123.w3cschool.cn/webtools
-    description: 在线工具库_W3Cschool极客导航
-    logo: assets/images/logos/123_w3cschool_cn.png
-  - title: 最全程序员工具
-    url: https://tool.oschina.net/
-    description: 在线工具 —— OSCHINA.NET社区
-    logo: assets/images/logos/tool_oschina_net.png
-  - title: docker文档
-    url: https://docker-doc.readthedocs.io/zh-cn/latest/
-    description: Docker文档 - Docker 文档
-    logo: assets/images/logos/docker-doc_readthedocs_io.png
-  - title: maven坐标
-    url: https://mvnrepository.com/search?q=
-    description: mvnrepository.com
-    logo: assets/images/logos/7080b8b0f6f48e6fbaffd5f9d85fcc7f-favicon.ico
-  - title: 极客搜索
-    url: https://s.geekbang.org/
-    description: 极客搜索
-    logo: assets/images/logos/s_geekbang_org.png
-  - title: W3school
-    url: https://www.w3school.com.cn/
-    description: w3school 在线教程
-    logo: assets/images/logos/www_w3school_com_cn.png
-  - title: Spring
-    url: https://spring.io/
-    description: Spring | Home
-    logo: assets/images/logos/spring_io.png
-  - title: SDK.cn
-    url: https://www.sdk.cn/
-    description: 最新 - sdk社区 | 技术至上
-    logo: assets/images/logos/www_sdk_cn.png
-  - title: 图灵社区-图书
-    url: https://m.ituring.com.cn/tag/39
-    description: 图灵社区
-    logo: assets/images/logos/m_ituring_com_cn.png
-  - title: W3C
-    url: https://www.w3.org/
-    description: W3C
-    logo: assets/images/logos/www_w3_org.png
-  - title: 文件签名
-    url: https://www.garykessler.net/library/file_sigs.html
-    description: File Signatures
-    logo: assets/images/logos/default.png
-  - title: Md5解码
-    url: https://cmd5.com/
-    description: md5在线解密破解,md5解密加密
-    logo: assets/images/logos/cmd5_com.png
-  - title: Base64在线编码
-    url: https://base64.us/#
-    description: Base64 在线编码解码 | Base64 加密解密 - Base64.us
-    logo: assets/images/logos/base64_us.png
-  - title: InfoQ
-    url: https://www.infoq.cn/
-    description: InfoQ - 促进软件开发及相关领域知识与创新的传播-极客邦
-    logo: assets/images/logos/www_infoq_cn.png
-  - title: Medium Stories&ideas
-    url: https://medium.com/
-    description: 'Medium: Read and write stories.'
-    logo: assets/images/logos/medium_com.png
-  - title: 深度开源社区
-    url: https://www.open-open.com/
-    description: 开源项目,开源代码,开源文档,开源新闻,开源社区_深度开源
-    logo: assets/images/logos/www_open-open_com.png
-  - title: node.js
-    url: https://nodejs.cn/#google_vignette
-    description: Node.js 中文网
-    logo: assets/images/logos/nodejs_cn.png
-  - title: FEX
-    url: https://fex-team.github.io/
-    description: FEX - FEX
-    logo: assets/images/logos/fex-team_github_io.png
-  - title: CanIUse-Web
-    url: https://caniuse.com/
-    description: Can I use... Support tables for HTML5, CSS3, etc
-    logo: assets/images/logos/caniuse_com.png
-  - title: 大前端工具集
-    url: https://github.com/nieweidong/fetool#javascript
-    description: 'GitHub - nieweidong/fetool: 大前端的瑞士军刀，只记录有用的。'
-    logo: assets/images/logos/github_com.png
-  - title: MDN
-    url: https://developer.mozilla.org/zh-CN/
-    description: MDN Web Docs
-    logo: assets/images/logos/developer_mozilla_org.png
-  - title: 前端开发者手册
-    url: https://dwqs.gitbooks.io/frontenddevhandbook/content/
-    description: 前端开发者手册 · Front-end Developer HandBook
-    logo: assets/images/logos/dwqs_gitbooks_io.png
-  - title: IBM开发者
-    url: https://developer.ibm.com/
-    description: IBM Developer
-    logo: assets/images/logos/developer_ibm_com.png
-  - title: 51CTO
-    url: https://www.51cto.com/
-    description: 51cto.com
-    logo: assets/images/logos/default.png
-  - title: HTML5联盟
-    url: https://www.html5plus.org/doc/zh_cn/nativeui.html
-    description: HTML5+ API Reference
-    logo: assets/images/logos/www_html5plus_org.png
-  - title: 前端论坛
-    url: https://www.w3ctech.com/
-    description: 首页 - w3ctech
-    logo: assets/images/logos/www_w3ctech_com.png
-  - title: 前端API手册
-    url: https://devdocs.io/
-    description: DevDocs API Documentation
-    logo: assets/images/logos/devdocs_io.png
-  - title: REST介绍
-    url: https://datacommons.org/
-    description: Home - Data Commons
-    logo: assets/images/logos/datacommons_org.png
-  - title: 在线加密解密
-    url: https://encode.chahuo.com/
-    description: 在线加密解密 - chahuo.com
-    logo: assets/images/logos/default.png
-  - title: AutoHotkey
-    url: https://ahkcn.sourceforge.net/docs/AutoHotkey.htm
-    description: AutoHotkey
-    logo: assets/images/logos/ahkcn_sourceforge_net.png
-  - title: AutoHotkey社区
-    url: https://www.autoahk.com/
-    description: AutoAHK – 让电脑更懂你！
-    logo: assets/images/logos/default.png
-  
-- taxonomy: 摄影图像
-  icon: fa-camera
-  links:
-  - title: 大疆-天空之城
-    url: https://www.skypixel.com/explore
-    description: The world's biggest drone photo and video sharing platform | SkyPixel.com
-    logo: assets/images/logos/www_skypixel_com.png
-  - title: 摄影笔记
-    url: https://www.sybj.com/
-    description: 摄影笔记 每天一条摄影新知 - 北京鑫锐视觉科技有限公司
-    logo: assets/images/logos/www_sybj_com.png
-  - title: 摄影网址导航
-    url: https://www.5566.net/sy-4.htm
-    description: 摄影网址大全
-    logo: assets/images/logos/www_5566_net.png
-  - title: 摄影-图虫
-    url: https://flickr.tuchong.com/
-    description: flickr摄友会 - 图虫摄影网
-    logo: assets/images/logos/flickr_tuchong_com.png
-  - title: 摄影-500px
-    url: https://500px.com/?utm_source=qq&utm_medium=social
-    description: 500px
-    logo: assets/images/logos/500px_com.png
-  - title: 500px
-    url: https://500px.com.cn/community/discover
-    description: 热门摄影作品 - 优秀摄影作品欣赏 - 500px摄影社区
-    logo: assets/images/logos/500px_com_cn.png
-  - title: 图虫
-    url: https://tuchong.com/community
-    description: 图虫网 - 优质摄影师交流社区
-    logo: assets/images/logos/tuchong_com.png
-  - title: 环球地理
-    url: https://www.nationalgeographic.com/
-    description: National Geographic
-    logo: assets/images/logos/nationGeofavicon.ico
-  - title: 摄影-免费图片
-    url: https://librestock.com/?utm_source=qq&utm_medium=social
-    description: Librestock Photos - Free Stock Photo Search Engine
-    logo: assets/images/logos/librestock_com.png
-  - title: 中国摄影家协会网
-    url: https://www.cpanet.org.cn/zphyzp.html
-    description: 会员作品--中国摄影家协会网
-    logo: assets/images/logos/www_cpanet_org_cn.png
-  - title: AI摄影公式
-    url: https://grass-sale-436.notion.site/Ai-0bac3ece9a9047b2b92273b68b7be452
-    description: Your connected workspace for wiki, docs & projects | Notion
-    logo: assets/images/logos/grass-sale-436_notion_site.png
-  - title: 环游世界-3D视频
-    url: http://www.airpano.org.cn/
-    description: 360°航拍全景，全球360°虚拟游览，地球上最有趣的地方照片
-    logo: assets/images/logos/default.png
-  - title: 3D和AR平台
-    url: https://sketchfab.com/
-    description: Sketchfab - The best 3D viewer on the web
-    logo: assets/images/logos/sketchfab_com.png
-  
-- taxonomy: 音乐音效
-  icon: fa-music
-  links:
-  - title: 随机按键随机音乐
-    url: https://aidn.jp/mikutap/
-    description: Mikutap
-    logo: assets/images/logos/aidn_jp.png
-  - title: foobar音乐播放器
-    url: https://www.foobar2000.org/support
-    description: 'foobar2000: Support and community'
-    logo: assets/images/logos/www_foobar2000_org.png
-  - title: 刘志进音乐直连
-    url: https://music.liuzhijin.cn/
-    description: 音乐直链搜索|音乐在线试听 - by 刘志进实验室
-    logo: assets/images/logos/music_liuzhijin_cn.png
-  - title: 学习音乐
-    url: https://learningmusic.ableton.com/zh-Hans/index.html
-    description: 介绍 | Learning Music
-    logo: assets/images/logos/learningmusic_ableton_com.png
-  - title: 落网雀跃
-    url: https://www.indie.cn/
-    description: 雀乐
-    logo: assets/images/logos/www_indie_cn.png
-  - title: 发现音乐
-    url: https://www.last.fm/zh/music
-    description: 音乐 | Last.fm
-    logo: assets/images/logos/www_last_fm.png
-  - title: 睡眠白噪音
-    url: https://generative.fm/
-    description: Generative.fm – Endless ambient music generators
-    logo: assets/images/logos/generative_fm.png
-  - title: rainScope
-    url: https://rainyscope.com/#slide-1
-    description: Rainyscope | Rain sound generator - The beauty of the rain sounds.
-    logo: assets/images/logos/rainyscope_com.png
-  - title: 雨季情绪(白噪音)
-    url: https://rainymood.com/
-    description: 'Rainy Mood • #1 Rain Sounds • Sleep & Study'
-    logo: assets/images/logos/rainymood_com.png
-  - title: 大海的声音
-    url: https://virtocean.com/
-    description: Virtual Ocean | Sea and ocean sounds noise generator
-    logo: assets/images/logos/virtocean_com.png
-  - title: 钢琴音乐
-    url: https://piano-genie.glitch.me/
-    description: Piano Genie
-    logo: assets/images/logos/piano-genie_glitch_me.png
-  - title: 键盘钢琴
-    url: https://touchpianist.com/
-    description: Touch Pianist - Tap in Rhythm and Perform Your Favourite Music
-    logo: assets/images/logos/touchpianist_com.png
-  - title: 广播花园
-    url: https://radio.garden/
-    description: Radio Garden – Explore live radio by rotating the globe
-    logo: assets/images/logos/radio_garden.png
-  - title: 会演奏的猫
-    url: https://bongo.cat/
-    description: Bongo Cat
-    logo: assets/images/logos/bongo_cat.png
-  - title: 字节跳动,音乐
-    url: https://typatone.com/
-    description: Typatone
-    logo: assets/images/logos/typatone_com.png
-  - title: 噪音
-    url: https://annoisli.com/
-    description: Annoisli
-    logo: assets/images/logos/annoisli_com.png
-  - title: 音效
-    url: https://www.soundsnap.com/tags/menus_and_interfaces
-    description: Menus And Interfaces Sound Effects Download | SFX Library | Soundsnap
-    logo: assets/images/logos/www_soundsnap_com.png
-  - title: 视频伴奏下载
-    url: https://icons8.com/music/categories/cartoons
-    description: Cartoons Music Category
-    logo: assets/images/logos/icons8_com.png
-  - title: 吉他和弦图谱
-    url: https://www.standardguitar.com/c-major-pentatonic-scale
-    description: C Major Pentatonic Scale | Standard Guitar
-    logo: assets/images/logos/www_standardguitar_com.png
-  
 - taxonomy: 股票基金
   icon: fa-area-chart
   links:
@@ -943,340 +339,8 @@
     description: 财联社-主流财经新闻集团和财经通讯社-cls.cn
     logo: assets/images/logos/www_cls_cn.png
   
-- taxonomy: 壁纸图片
-  icon: fa-picture-o
-  links:
-  - title: PS大神集合
-    url: https://mp.weixin.qq.com/s?__biz=MzAxMDU5OTQ5NA==&mid=2652567467&idx=1&sn=42f3cabb6fbc7c899f7f088008bf9444&chksm=80a3ba82b7d4339433bb2ce8cf06135e193042417de81c7c3efcfd6e7ea29dadb5538b5179a7&mpshare=1&scene=23&srcid=1001TezNSrNSeCi9Bcc9h7lD#rd
-    description: 本以为今天不用膜拜大神了，谁知道，彻底的跪了
-    logo: assets/images/logos/mp_weixin_qq_com.png
-  - title: 壁纸下载网站1
-    url: https://www.10wallpaper.com/
-    description: Beauty Your Desktop - 4K,5K Best High Quality Wallpapers Album Free
-      Download Site | 10wallpaper.com
-    logo: assets/images/logos/www_10wallpaper_com.png
-  - title: 壁纸下载网站2
-    url: https://wallhaven.cc/
-    description: Awesome Wallpapers - wallhaven.cc
-    logo: assets/images/logos/wallhaven_cc.png
-  - title: 壁纸下载网站3
-    url: https://wallpapers.com/
-    description: Wallpapers.com | 1,500,000+ Free HD Wallpapers for Desktop, Mobiles
-      & Tablets
-    logo: assets/images/logos/wallpapers_com.png
-  - title: 壁纸下载网站4
-    url: https://wallpapershome.com/
-    description: wallpapershome.com
-    logo: assets/images/logos/wallpapershome.ico
-  - title: 免费图片下载
-    url: https://www.hippopx.com/zh
-    description: Hippopx - 精美的免版权图库
-    logo: assets/images/logos/www_hippopx_com.png
-  - title: 免费图片下载2
-    url: https://www.pexels.com/search/human/
-    description: pexels.com
-    logo: assets/images/logos/pexels.ico
-  - title: 免费图片下载
-    url: https://www.freepik.com/popular-photos
-    description: freepik.com
-    logo: assets/images/logos/freepik.ico
-  - title: 创意壁纸画廊
-    url: https://gratisography.com/
-    description: Gratisography - Free High-Resolution Stock Photos
-    logo: assets/images/logos/gratisography_com.png
-  - title: 免税图片
-    url: https://pixabay.com/zh/
-    description: pixabay.com
-    logo: assets/images/logos/pixabay-32x32.png
-  - title: 全景图片
-    url: https://www.quanjing.com/
-    description: quanjing.com
-    logo: assets/images/logos/quanjing.ico
-  - title: 图片
-    url: https://www.pexels.com/zh-cn/
-    description: pexels.com
-    logo: assets/images/logos/pexels.ico
-  - title: 免费图片
-    url: https://www.freeimages.com/
-    description: Free Photos, Clipart, Vectors, PSD, & Icons | FreeImages
-    logo: assets/images/logos/www_freeimages_com.png
-  - title: 图片素材整理
-    url: https://mp.weixin.qq.com/s/x8Utw8cLcykcfMJwIj2grg
-    description: 22个无版权、免费、高清图片素材网站整理！（合集）
-    logo: assets/images/logos/mp_weixin_qq_com.png
-  - title: Pinterest
-    url: https://www.pinterest.com/
-    description: Pinterest
-    logo: assets/images/logos/www_pinterest_com.png
-  - title: 抠图
-    url: https://www.remove.bg/zh/g/marketing
-    description: 促销广告图片修图_营销宣传图片抠图换背景 | remove.bg – remove.bg
-    logo: assets/images/logos/www_remove_bg.png
-  - title: 食物照片
-    url: https://www.foodiesfeed.com/
-    description: Pictures of food • Foodiesfeed • Food picturesPictures of food •
-      Foodiesfeed • Food pictures
-    logo: assets/images/logos/www_foodiesfeed_com.png
-  - title: 位图下载
-    url: https://undraw.co/illustrations
-    description: Illustrations | unDraw
-    logo: assets/images/logos/undraw_co.png
-  - title: photoshop在线
-    url: https://www.adobe.com/products/photoshop/online.html?wf=editor
-    description: adobe.com
-    logo: assets/images/logos/adobe.ico
-  
-- taxonomy: 图标字体
-  icon: fa-flag
-  links:
-  
-  - title: loading图标
-    url: https://loading.io/#editor
-    description: loading.io
-    logo: assets/images/logos/loading.png
-  - title: 剪切图标素材
-    url: https://openclipart.org/search?p=2
-    description: Openclipart - Clipping Culture
-    logo: assets/images/logos/openclipart_org.png
-  - title: logo免费设计
-    url: https://www.logoko.com.cn/design
-    description: 免费LOGO在线制作生成_公司LOGO设计在线生成工具 - 标点狗
-    logo: assets/images/logos/www_logoko_com_cn.png
-  - title: LOGO-MAKER
-    url: https://www.logomaker.com.cn/
-    description: logo免费设计在线生成_公司logo设计在线制作神器 - 标智客
-    logo: assets/images/logos/www_logomaker_com_cn.png
-  - title: 图标表情搜索
-    url: https://www.flaticon.com/
-    description: flaticon.com
-    logo: assets/images/logos/flaticon.ico
-  - title: 图标搜索
-    url: https://www.thinkcmf.com/font/search.html
-    description: Font Awesome图标搜索--ThinkCMF
-    logo: assets/images/logos/www_thinkcmf_com.png
-  - title: 图标设计
-    url: https://www.iconfinder.com/
-    description: 8,925,000+ free and premium vector icons, illustrations and 3D illustrations
-    logo: assets/images/logos/www_iconfinder_com.png
-  - title: iconfont
-    url: https://www.iconfont.cn/
-    description: iconfont-阿里巴巴矢量图标库
-    logo: assets/images/logos/www_iconfont_cn.png
-  - title: Font Awesome
-    url: https://www.bootcss.com/p/font-awesome/
-    description: Font Awesome, 为 Bootstrap 而创造的图标字体
-    logo: assets/images/logos/www_bootcss_com.png
-  
-- taxonomy: 产品经理
-  icon: fa-product-hunt
-  links:
-  - title: 用户设计体验平台
-    url: https://www.ui.cn/
-    description: UICN用户体验设计平台
-    logo: assets/images/logos/www_ui_cn.png
-  - title: 优秀设计UE的用户
-    url: https://dribbble.com/designers
-    description: Hire Top Freelance Graphic Designers - Search Designers Instantly
-    logo: assets/images/logos/favicon-452601365a822699d1d5db718ddf7499d036e8c2f7da69e85160a4d2f83534bd.ico
-  - title: 人人都是产品经理
-    url: https://www.woshipm.com/
-    description: 人人都是产品经理 | 产品经理、产品爱好者学习交流平台
-    logo: assets/images/logos/www_woshipm_com.png
-  - title: 互联网产品经理@唐杰
-    url: https://tangjie.me/
-    description: 互联网产品经理@唐杰
-    logo: assets/images/logos/tangjie_me.png
-  
-- taxonomy: PPT资源
-  icon: fa-file-powerpoint-o
-  links:
-  - title: PPT模板
-    url: https://www.officeplus.cn/PPT/template/
-    description: 微软官方PPT模板下载- 热门全新PPT模板完整下载- OfficePLUS (officeplus.cn)
-    logo: assets/images/logos/www_officeplus_cn.png
-  - title: PPT模板2
-    url: https://www.hippter.com/
-    description: HiPPTER | PPT资源导航 | PPT模板图表等设计素材免费下载
-    logo: assets/images/logos/www_hippter_com.png
-  - title: PPT模板3
-    url: https://www.pptfans.cn/?utm_source=qq&utm_medium=social
-    description: 人机验证
-    logo: assets/images/logos/www_pptfans_cn.png
-  
-- taxonomy: 配色方案
-  icon: fa-paint-brush
-  links:
-  - title: 色环
-    url: https://www.sessions.edu/color-calculator/
-    description: Color Wheel - Color Calculator | Sessions College
-    logo: assets/images/logos/www_sessions_edu.png
-  - title: 色彩设计
-    url: https://www.materialpalette.com/
-    description: Material Design Color Palette Generator - Material Palette
-    logo: assets/images/logos/www_materialpalette_com.png
-  - title: 色彩公式
-    url: https://coolors.co/palettes/trending
-    description: Trending Color Palettes - Coolors
-    logo: assets/images/logos/coolors_co.png
-  - title: 色彩搭配
-    url: https://flatuicolors.com/
-    description: Flat UI Colors 2 - 14 Color Palettes, 280 colors 🎨
-    logo: assets/images/logos/flatuicolors_com.png
-  - title: 颜色搭配
-    url: https://color.adobe.com/zh/create/color-wheel
-    description: color.adobe.com
-    logo: assets/images/logos/color_adobe_com.png
-  - title: 安全色彩-不溢出
-    url: http://colorsafe.co/
-    description: Color Safe - accessible web color combinations
-    logo: assets/images/logos/default.png
-  - title: RGB颜色对照表
-    url: https://www.917118.com/tool/color_3.html
-    description: RGB颜色对照表
-    logo: assets/images/logos/www_917118_com.png
-  
-- taxonomy: 公众号
-  icon: fa-star
-  links:
-  - title: 公众号文章编辑-135编辑
-    url: https://www.135editor.com/
-    description: 135编辑器官网_微信公众号图文排版工具_一键在线文章内容编辑器
-    logo: assets/images/logos/www_135editor_com.png
-  - title: 公众号文章编辑-96编辑
-    url: https://bj.96weixin.com/
-    description: 96微信编辑器官网--微信公众平台图文排版工具 微信编辑器哪个好 在线内容编辑软件
-    logo: assets/images/logos/bj_96weixin_com.png
-  - title: 创意内容平台
-    url: https://www.topys.cn/
-    description: TOPYS | 创意内容平台 OPEN YOUR MIND
-    logo: assets/images/logos/www_topys_cn.png
-  - title: 站酷
-    url: https://www.zcool.com.cn/
-    description: 站酷ZCOOL-设计师互动平台-打开站酷,发现更好的设计!
-    logo: assets/images/logos/www_zcool_com_cn.png
-  - title: adobe素材
-    url: https://stock.adobe.com/
-    description: stock.adobe.com
-    logo: assets/images/logos/stock.adobe.ico
-  - title: 90设计
-    url: https://90sheji.com/so/sc-3791605-1-0-0-0-0-1.html
-    description: 平面素材海报-平面素材图片banner-90海报模板
-    logo: assets/images/logos/90sheji_com.png
-  - title: 设计达人
-    url: https://www.shejidaren.com/
-    description: 设计达人 | 爱设计，爱分享。
-    logo: assets/images/logos/www_shejidaren_com.png
-  - title: 海报设计
-    url: https://90sheji.com/?lujin=/sucai/-0-0.html
-    description: 90设计网，电商设计模板 PNG素材 背景图免费下载网站
-    logo: assets/images/logos/90sheji_com.png
-  - title: 网页UI设计
-    url: https://www.siteinspire.com/
-    description: Siteinspire | A showcase of the web’s finest design + talent
-    logo: assets/images/logos/siteinspire.png
-  - title: 响应式设计
-    url: https://blocsapp.com/mac/
-    description: The Ultimate Mac Website Builder - Blocs
-    logo: assets/images/logos/blocsapp_com.png
-  - title: 软件UE设计
-    url: https://www.pttrns.com/
-    description: Pttrns Homepage - Pttrns
-    logo: assets/images/logos/www_pttrns_com.png
-  - title: UE设计
-    url: https://www.awwwards.com/#market
-    description: Awwwards - Website Awards - Best Web Design Trends
-    logo: assets/images/logos/awwwards.png
-  - title: UML设计工具
-    url: https://zenuml.com/
-    description: A Free Sequence Diagram Online Tool | ZenUML
-    logo: assets/images/logos/zenuml_com.png
-  - title: UI设计题
-    url: https://cantunsee.space/
-    description: Can't Unsee
-    logo: assets/images/logos/cantunsee_space.png
-  - title: 优秀设计UE
-    url: https://dribbble.com/
-    description: Dribbble - Discover the World’s Top Designers & Creative Professionals
-    logo: assets/images/logos/favicon-452601365a822699d1d5db718ddf7499d036e8c2f7da69e85160a4d2f83534bd.ico
-  - title: 贝塞尔曲线练习
-    url: https://bezier.method.ac/
-    description: The Bézier Game
-    logo: assets/images/logos/bezier_method_ac.png
-  - title: 设计素材
-    url: http://www.sccnn.com/
-    description: 素材中国www.sccnn.com_素材CNN_素材共享平台
-    logo: assets/images/logos/www_sccnn_com.png
-  - title: 创意广告圈
-    url: https://www.adquan.com/
-    description: 广告门 | 一个行业的跌宕起伏
-    logo: assets/images/logos/www_adquan_com.png
-  - title: Adobe创意画廊
-    url: https://www.behance.net/galleries/
-    description: Behance
-    logo: assets/images/logos/behance.png
-  - title: 蝉妈妈-视频数据分析
-    url: https://www.chanmama.com/
-    description: 蝉妈妈 - 短视频内容营销与直播电商洞察平台
-    logo: assets/images/logos/www_chanmama_com.png
-  - title: 视频号大盘
-    url: https://xs.newrank.cn/Account/accountTape
-    description: 新视—视频号数据分析工具
-    logo: assets/images/logos/xs_newrank_cn.png
-  
-- taxonomy: 游戏娱乐
-  icon: fa-gamepad
-  links:
-  - title: 成语接龙-一个顶俩
-    url: https://lia.ustc-zzzz.net/
-    description: Yi Ge Ding Lia
-    logo: assets/images/logos/default.png
-  - title: 信任的进化
-    url: https://dccxi.com/trust/
-    description: 信任的进化
-    logo: assets/images/logos/dccxi_com.png
-  - title: 电子游戏博物馆
-    url: https://noclip.website/
-    description: noclip
-    logo: assets/images/logos/noclip.png
-  - title: 游戏机博物馆
-    url: https://www.famicn.com/
-    description: 中文家用游戏博物馆
-    logo: assets/images/logos/default.png
-  - title: 初音未来
-    url: https://aidn.jp/mikuwarp/
-    description: MIKUWARP
-    logo: assets/images/logos/aidn_jp.png
-  - title: 穿越地球
-    url: https://2050.earth/
-    description: 'Earth 2050: A glimpse into the future | Kaspersky'
-    logo: assets/images/logos/2050_earth.png
-  - title: 这个人不存在
-    url: https://thispersondoesnotexist.com/
-    description: thispersondoesnotexist.com
-    logo: assets/images/logos/thispersondoesnotexist_com.png
-  - title: 假装更新
-    url: https://fakeupdate.net/
-    description: FakeUpdate.net - Windows Update Prank by fediaFedia
-    logo: assets/images/logos/default.png
-  - title: 天空有多高
-    url: https://www.secaibi.com/howbigisspace/
-    description: 天空有多高
-    logo: assets/images/logos/www_secaibi_com.png
-  - title: 世界进化史
-    url: https://calculatingempires.net/?pos=42272.20%2C8725.00%2C12.6041
-    description: Calculating Empires
-    logo: assets/images/logos/calculatingempires_net.png
-  - title: 宇宙缩略图
-    url: http://stars.chromeexperiments.com/
-    description: 100,000 Stars
-    logo: assets/images/logos/stars_chromeexperiments_com.png
-  - title: Timeline of Earth
-    url: https://timelineofearth.com/
-    description: Timeline of Earth
-    logo: assets/images/logos/default.png
-  
-- taxonomy: 网站导航
-  icon: fa-sitemap
+- taxonomy: 常用网站
+  icon: fa-user-circle-o
   links:
   - title: 小报童
     url: https://xiaobot.net/
@@ -1310,223 +374,1227 @@
     url: https://www.coursera.org/
     description: Coursera | Degrees, Certificates, & Free Online Courses
     logo: assets/images/logos/www_coursera_org.png
-  
-- taxonomy: 艺术设计
-  icon: fa-paint-brush
-  links:
-  - title: 艺术字
-    url: https://wordart.com/create
-    description: Edit word art - WordArt.com
-    logo: assets/images/logos/wordart_com.png
-  - title: Google艺术与文化
-    url: https://artsandculture.google.com/
-    description: Google Arts & Culture
-    logo: assets/images/logos/artsandculture_google_com.png
-  - title: 李小龙简介
-    url: https://artsandculture.google.com/story/NwWhvE6rSFCjIQ
-    description: 'Bruce Lee: An Introduction — Google Arts & Culture'
-    logo: assets/images/logos/artsandculture_google_com.png
-  - title: 艺术馆
-    url: https://foto.gallerix.asia/
-    description: 艺术摄影，摄影师的个人网站 | Gallerix 艺术俱乐部
-    logo: assets/images/logos/foto_gallerix_asia.png
-  - title: 观沧海-共享地图知识
-    url: https://www.ageeye.cn/
-    description: 观沧海 - 地图分享知识
-    logo: assets/images/logos/www_ageeye_cn.png
-  - title: 微词云
-    url: https://design.weiciyun.com/edit/a1d89c67b632c2eaaf332352b4ebfb51
-    description: 词云制作 - 微词云
-    logo: assets/images/logos/design_weiciyun_com.png
-  
-- taxonomy: 法律资源
-  icon: fa-gavel
-  links:
-  
-  - title: 聚法网
-    url: https://www.jufaanli.com/
-    description: 更专业的法律人伴侣_聚法案例
-    logo: assets/images/logos/www_jufaanli_com.png
-  - title: 法信网
-    url: https://www.faxin.cn/
-    description: 法信 - 懂法，更懂法律人
-    logo: assets/images/logos/www_faxin_cn.png
-  
-- taxonomy: 人工智能
-  icon: fa-robot
-  links:
-  - title: 结构化提示词
-    url: https://langgptai.feishu.cn/wiki/SBnjwqncziHTArkrtndc1jkEnOg
-    description: Docs
-    logo: assets/images/logos/langgptai_feishu_cn.png
-  - title: 虚拟信用卡
-    url: https://nobepay.com/app/login
-    description: nobepay.com
-    logo: assets/images/logos/nobepay_com.png
-  - title: 抱脸大模型
-    url: https://huggingface.co/
-    description: Hugging Face – The AI community building the future.
-    logo: assets/images/logos/huggingface_co.png
-  - title: AI网站分析
-    url: https://www.toolify.ai/zh/
-    description: 最好的AI导航站和AI工具列表 - Toolify
-    logo: assets/images/logos/www_toolify_ai.png
-  - title: AI Prompt
-    url: https://www.aishort.top/?tags=social
-    description: AiShort - 高效 AI 快捷指令平台 | 提示词管理与分享，生产力倍增 | AiShort - High-Efficiency
-      AI Shortcut Platform | Prompt Management & Productivity Tool
-    logo: assets/images/logos/www_aishort_top.png
-  - title: 哩布哩布
-    url: https://www.liblib.art/
-    description: LiblibAI-哩布哩布AI - 中国领先的AI创作平台
-    logo: assets/images/logos/www_liblib_art.png
-  - title: 秘塔AI
-    url: https://metaso.cn/
-    description: 秘塔AI搜索
-    logo: assets/images/logos/metaso_cn.png
-  
-- taxonomy: 建站工具
-  icon: fa-globe
-  links:
-  - title: spaceship
-    url: https://www.spaceship.com/zh/
-    description: 购买和管理域名
-    logo: assets/images/logos/spaceship-favicon.ico
-
-  - title: 域名查询
-    url: https://query.domains/
-    description: 功能强大的域名查询
-    logo: assets/images/logos/queryDomains-32x32.png
-
-  - title: leandomainsearch
-    url: https://leandomainsearch.com/
-    description: 域名建议
-    logo: assets/images/logos/cropped-lds-icon.png
-    
-  - title: cloudflare
-    url: https://www.cloudflare.com/zh-cn/
-    description: 网站托管，域名解析
-    logo: assets/images/logos/cloudflare.ico
-    
-  - title: github
-    url: https://www.webflow.com/
-    description: 代码托管
-    logo: assets/images/logos/github.png
-    
-  - title: vercel
-    url: https://vercel.com/
-    description: 网站托管
-    logo: assets/images/logos/vercel.png
-    
-  - title: Google SEO
-    url: https://dmthought.com/google-seo-guide/?utm_source=chatgpt.com
-    description: SEO 学习
-    logo: assets/images/logos/DMthought-new-logo-32x32.png
-    
-  - title: replicate
-    url: https://replicate.com/
-    description: 大模型建站
-    logo: assets/images/logos/favicon.c3e4e1c1e57e.ico
-    
-  - title: 青云聚合API
-    url: https://api.qingyuntop.top/
-    description: 青云TOP全球AI大模型聚合API
-    logo: assets/images/logos/67e94f652a998.png
-
-  - title: openrouter
-    url: https://openrouter.ai/
-    description: openrouter
-    logo: assets/images/logos/openrouter.ico
-    
-  - title: 老张API
-    url: https://api.laozhang.ai/account/profile
-    description: 专业可靠的 API 中转站，本站提供企业级专业稳定的 GPT-4o/4/Claude 3.5/Gemini-exp/Grok-beta等全模型接口的分发服务
-    logo: assets/images/logos/laozhang-favicon-64x64.png
-    
-  - title: 硅基流动
-    url: https://siliconflow.cn/zh-cn/models
-    description: 大模型API平台
-    logo: assets/images/logos/silliconflow.png
-  - title: 提示词猎人
-    url: https://www.prompthunt.com/
-    description: 获取好看图片的提示词
-    logo: assets/images/logos/prompthunt.png
-  - title: DMXAPI
-    url: https://www.dmxapi.cn/pricing
-    description: DMXAPI 中国多模态大模型API聚合平台
-    logo: assets/images/logos/DMXAPI-D.png
-  - title: prompt-library
-    url: https://docs.anthropic.com/zh-CN/prompt-library/library
-    description: 克劳德-大模型提示词库
-    logo: assets/images/logos/claude.ico
-- taxonomy: 软件工具
-  icon: fa-desktop
-  links:
-  - title: 手机软件下载
-    url: https://apkpure.com/cn/search?q=rosetta
-    description: apkpure.com
-    logo: assets/images/logos/apkpure_v2.ico
-  - title: 下载吧
-    url: https://www.xiazaiba.com/hot/adobecc2015/
-    description: adobe cc 2015_Adobe CC 2015全套下载_Adobe CC 2015全系列软件-下载吧
-    logo: assets/images/logos/www_xiazaiba_com.png
-  - title: '#软件管家@下载主页#'
-    url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkxODc4OTIzNw==&action=getalbum&album_id=3745704944024961025
-    description: mp.weixin.qq.com
-    logo: assets/images/logos/mp_weixin_qq_com.png
-  - title: 马克喵-Mac软件下载
-    url: https://www.macat.vip/
-    description: 马克喵_获取最新MAC破解软件
-    logo: assets/images/logos/www_macat_vip.png
-  - title: 一起感悟-名言警句
-    url: http://www.yiqig.com/
-    description: 人生感悟的文章/句子_经典语录名人名言警句大全_一起感悟人生网
-    logo: assets/images/logos/default.png
-  - title: 怀旧版win画图工具
-    url: https://jspaint.app/#local:a0e65900b3bb
-    description: JS Paint
-    logo: assets/images/logos/jspaint_app.png
-  - title: 李涛PS高手之路
-    url: https://study.163.com/course/introduction.htm?courseId=203001#/courseDetail
-    description: 李涛Photoshop高手之路基础篇 - 网易云课堂
-    logo: assets/images/logos/study_163_com.png
-  - title: 摸鱼小网站
-    url: https://www.adultswim.com/etcetera/
-    description: Adult Swim - Etcetera
-    logo: assets/images/logos/www_adultswim_com.png
-  - title: 像素世界
-    url: http://www.effectgames.com/demos/canvascycle/
-    description: 'Canvas Cycle: True 8-bit Color Cycling with HTML5'
-    logo: assets/images/logos/default.png
-  - title: 两步路
-    url: https://www.2bulu.com/
-    description: 两步路户外网-户外助手官网，GPS轨迹下载，约伴活动，户外商城，驴友社区
-    logo: assets/images/logos/www_2bulu_com.png
-  - title: 对称图
-    url: http://weavesilk.com/
-    description: Silk – Interactive Generative Art
-    logo: assets/images/logos/weavesilk_com.png
-  - title: 全历史
-    url: https://www.allhistory.com/
-    description: 全历史
-    logo: assets/images/logos/www_allhistory_com.png
-  - title: 毒鸡汤
-    url: http://www.nows.fun/
-    description: 毒鸡汤 - 壮士可要来一碗！
-    logo: assets/images/logos/default.png
-  - title: 你好污啊
-    url: https://www.nihaowua.com/
-    description: 你好污啊
-    logo: assets/images/logos/www_nihaowua_com.png
-  - title: 弯曲文本
-    url: https://curvedtext.co/zh
-    description: 免费在线弯曲文本生成器 - 弯曲文本
-    logo: assets/images/logos/curvedtext_co.png
-  - title: 蓝屏
-    url: https://anon.blue/
-    description: anon.blue
-    logo: assets/images/logos/anon_blue.png
-  - title: 马克飞象markdown
     url: https://maxiang.io/
     description: 马克飞象 - 专为印象笔记打造的Markdown编辑器
     logo: assets/images/logos/maxiang_io.png
+
+
+- taxonomy: 🧑‍💻程序员常用
+  icon: fa-laptop
+  list:
+    - term: 建站工具
+      links:
+        - title: 域名查询
+          url: https://query.domains/
+          description: 功能强大的域名查询
+          logo: assets/images/logos/queryDomains-32x32.png
+
+        - title: leandomainsearch
+          url: https://leandomainsearch.com/
+          description: 域名建议
+          logo: assets/images/logos/cropped-lds-icon.png
+
+        - title: spaceship
+          url: https://www.spaceship.com/zh/
+          description: 购买和管理域名
+          logo: assets/images/logos/spaceship-favicon.ico
+          
+        - title: github
+          url: https://www.webflow.com/
+          description: 代码托管
+          logo: assets/images/logos/github.png
+
+        - title: cloudflare
+          url: https://www.cloudflare.com/zh-cn/
+          description: 网站托管，域名解析
+          logo: assets/images/logos/cloudflare.ico
+          
+        - title: vercel
+          url: https://vercel.com/
+          description: 网站托管
+          logo: assets/images/logos/vercel.png
+
+        - title: prompt-library
+          url: https://docs.anthropic.com/zh-CN/prompt-library/library
+          description: 克劳德-大模型提示词库
+          logo: assets/images/logos/claude.ico
+          
+        - title: Google SEO
+          url: https://dmthought.com/google-seo-guide/?utm_source=chatgpt.com
+          description: SEO 学习
+          logo: assets/images/logos/DMthought-new-logo-32x32.png
+          
+        - title: replicate
+          url: https://replicate.com/
+          description: 大模型建站
+          logo: assets/images/logos/favicon.c3e4e1c1e57e.ico
+          
+        - title: 青云聚合API
+          url: https://api.qingyuntop.top/
+          description: 青云TOP全球AI大模型聚合API
+          logo: assets/images/logos/67e94f652a998.png
+
+        - title: openrouter
+          url: https://openrouter.ai/
+          description: openrouter
+          logo: assets/images/logos/openrouter.ico
+          
+        - title: 老张API
+          url: https://api.laozhang.ai/account/profile
+          description: 专业可靠的 API 中转站，本站提供企业级专业稳定的 GPT-4o/4/Claude 3.5/Gemini-exp/Grok-beta等全模型接口的分发服务
+          logo: assets/images/logos/laozhang-favicon-64x64.png
+          
+        - title: 硅基流动
+          url: https://siliconflow.cn/zh-cn/models
+          description: 大模型API平台
+          logo: assets/images/logos/silliconflow.png
+
+        - title: 提示词猎人
+          url: https://www.prompthunt.com/
+          description: 获取好看图片的提示词
+          logo: assets/images/logos/prompthunt.png
+
+        - title: DMXAPI
+          url: https://www.dmxapi.cn/pricing
+          description: DMXAPI 中国多模态大模型API聚合平台
+          logo: assets/images/logos/DMXAPI-D.png
+
+    - term: 镜像下载
+      icon: fa-code
+      links:
+        - title: 腾讯软件源-镜像
+          url: https://mirrors.cloud.tencent.com/
+          description: 腾讯软件源
+          logo: assets/images/logos/default.png
+        - title: windows镜像
+          url: https://www.imsdn.cn/
+          description: MSDN原版系统,纯净镜像,MSDN ISO下载 - 我的MSDN
+          logo: assets/images/logos/www_imsdn_cn.png
+        - title: 清华镜像站
+          url: https://mirrors.tuna.tsinghua.edu.cn/
+          description: 清华大学开源软件镜像站 | Tsinghua Open Source Mirror
+          logo: assets/images/logos/mirrors_tuna_tsinghua_edu_cn.png
+        - title: 镜像清单
+          url: https://jaycechant.info/list/mirror-list/
+          description: 开源软件 和 开发工具 镜像清单 | 存档Save&Load
+          logo: assets/images/logos/jaycechant_info.png
+
+    - term: 网络安全
+      links:
+      - title: 代码荣耀-杰夫伍德
+        url: https://blog.codinghorror.com/
+        description: Coding Horror
+        logo: assets/images/logos/blog_codinghorror_com.png
+
+      - title: CTF-wiki
+        url: https://ctf-wiki.org/
+        description: 简介 - CTF Wiki
+        logo: assets/images/logos/ctf-wiki_org.png
+
+      - title: 安全KER
+        url: https://www.anquanke.com/
+        description: 安全KER - 安全资讯平台
+        logo: assets/images/logos/www_anquanke_com.png
+
+      - title: Hack街
+        url: https://www.hackjie.com/
+        description: Hack街-黑客街-黑客技术入门-黑客零基础入门导航-网络安全爱好者的安全导航 | 黑客
+        logo: assets/images/logos/www_hackjie_com.png
+
+      - title: Web安全学习笔记
+        url: https://websec.readthedocs.io/zh/latest/index.html#
+        description: Web安全学习笔记 — Web安全学习笔记 1.0 文档
+        logo: assets/images/logos/websec_readthedocs_io.png
+
+      - title: 看雪-网络安全论坛
+        url: https://www.kanxue.com/
+        description: 看雪学苑-看雪-安全培训|安全招聘|www.kanxue.com
+        logo: assets/images/logos/www_kanxue_com.png
+
+      - title: 先知社区
+        url: https://xz.aliyun.com/news
+        description: 先知社区
+        logo: assets/images/logos/xz_aliyun_com.png
+
+      - title: CTF-Tools
+        url: https://www.ctftools.com/
+        description: CTF资源库|CTF工具下载|CTF工具包|CTF工具集合
+        logo: assets/images/logos/www_ctftools_com.png
+
+      - title: 黑客资讯
+        url: https://hackernews.cc/
+        description: hackernews.cc
+        logo: assets/images/logos/hacknews.ico
+
+      - title: 黑客新闻
+        url: https://news.ycombinator.com/news
+        description: news.ycombinator.com
+        logo: assets/images/logos/news_ycombinator_com.
+        
+      - title: BUFF网站-CTF
+        url: https://buuoj.cn/users
+        description: BUUCTF在线评测
+        logo: assets/images/logos/buuoj_cn.png
+    
+    - term: H5开发
+      links:
+      - title: H5在线制作-营销H5
+        url: https://www.ih5.cn/not-logged-in
+        description: iH5专业的H5制作工具
+        logo: assets/images/logos/www_ih5_cn.png
+      - title: H5学习平台
+        url: https://www.ivx.cn/?type=learner
+        description: iVX—人人都能掌握的可视化编程语言-ivx官网
+        logo: assets/images/logos/www_ivx_cn.png
+
+    - term: 后端社区
+      links:
+      - title: 程序员学习
+        url: https://www.freecodecamp.org/
+        description: freeCodeCamp.org
+        logo: assets/images/logos/www_freecodecamp_org.png
+      - title: 程序员博客
+        url: https://www.paulgraham.com/articles.html
+        description: Essays
+        logo: assets/images/logos/www_paulgraham_com.png
+      - title: MackTalk 随想录
+        url: https://macshuo.com/
+        description: MacTalk-池建强的随想录 | 让创作成为一种生活方式
+        logo: assets/images/logos/macshuo_com.png
+      - title: 开源中国社区
+        url: https://www.oschina.net/
+        description: OSCHINA - 中文开源技术交流社区
+        logo: assets/images/logos/www_oschina_net.png
+      - title: IType java编程
+        url: https://www.iteye.com/
+        description: ITeye Java编程 Spring框架 Ajax技术 agile敏捷软件开发 ruby on rails实践 - ITeye软件开发交流社区
+        logo: assets/images/logos/www_iteye_com.png
+      - title: CSDN社区
+        url: https://blog.csdn.net/
+        description: CSDN博客-专业IT技术发表平台
+        logo: assets/images/logos/blog_csdn_net.png
+      - title: 博客园
+        url: https://www.cnblogs.com/
+        description: 博客园 - 开发者的网上家园
+        logo: assets/images/logos/www_cnblogs_com.png
+      - title: 脚本之家
+        url: https://www.jb51.net/
+        description: 脚本之家_www.jb51.net
+        logo: assets/images/logos/www_jb51_net.png
+
+      - title: 鸟哥Linux私房菜
+        url: https://linux.vbird.org/linux_basic/
+        description: 鳥哥私房菜 - Linux 基礎學習篇各年份各版本的學習資料
+        logo: assets/images/logos/linux_vbird_org.png
+      - title: 思否-开发
+        url: https://segmentfault.com/
+        description: SegmentFault 思否
+        logo: assets/images/logos/segmentfault_com.png
+      - title: 可视化数据结构和算法
+        url: https://visualgo.net/zh
+        description: 通过动画可视化数据结构和算法<br> - VisuAlgo
+        logo: assets/images/logos/visualgo_net.png
+      - title: Chrome DevTools
+        url: https://developer.chrome.com/docs/devtools?hl=zh-cn
+        description: Chrome DevTools  |  Chrome for Developers
+        logo: assets/images/logos/developer_chrome_com.png
+      - title: 设计模式
+        url: https://refactoringguru.cn/design-patterns
+        description: 常用设计模式有哪些？
+        logo: assets/images/logos/refactoringguru_cn.png
+      - title: stack-overflow
+        url: https://stackoverflow.com/questions
+        description: Newest Questions - Stack Overflow
+        logo: assets/images/logos/stackoverflow_com.png
+      - title: 程序员手册
+        url: https://github.com/CyC2018/CS-Notes
+        description: 'GitHub - CyC2018/CS-Notes: :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计'
+        logo: assets/images/logos/github_com.png
+      - title: Linux
+        url: https://www.linux.org/
+        description: linux.org
+        logo: assets/images/logos/linux_favicon.ico
+      - title: Linux教程
+        url: https://linuxtools-rst.readthedocs.io/zh-cn/latest/base/index.html
+        description: Linux基础 — Linux Tools Quick Tutorial
+        logo: assets/images/logos/linuxtools-rst_readthedocs_io.png
+      - title: 技能图谱
+        url: https://github.com/TeamStuQ/skill-map?tab=readme-ov-file
+        description: 'GitHub - TeamStuQ/skill-map: 程序员技能图谱'
+        logo: assets/images/logos/github_com.png
+      - title: 脚本之家-手册
+        url: https://shouce.jb51.net/
+        description: html在线手册_javascript在线手册_jquery在线手册_php在线手册_java在线手册 - 脚本之家
+        logo: assets/images/logos/default.png
+      - title: git手册
+        url: https://git-scm.com/book/zh/v2
+        description: Git
+        logo: assets/images/logos/git-scm_com.png
+
+      - title: docker文档
+        url: https://docker-doc.readthedocs.io/zh-cn/latest/
+        description: Docker文档 - Docker 文档
+        logo: assets/images/logos/docker-doc_readthedocs_io.png
+      - title: maven坐标
+        url: https://mvnrepository.com/search?q=
+        description: mvnrepository.com
+        logo: assets/images/logos/7080b8b0f6f48e6fbaffd5f9d85fcc7f-favicon.ico
+
+      - title: Spring
+        url: https://spring.io/
+        description: Spring | Home
+        logo: assets/images/logos/spring_io.png
+        
+    - term: 前端社区
+      links:
+      - title: BootCDN
+        url: https://www.bootcdn.cn/
+        description: BootCDN - Bootstrap 中文网开源项目免费 CDN 加速服务 铂特优选
+        logo: assets/images/logos/www_bootcdn_cn.png
+      - title: jQuery
+        url: https://jquery.com/
+        description: jQuery
+        logo: assets/images/logos/jquery_com.png
+      - title: Bootstrap
+        url: https://www.bootcss.com/
+        description: Bootstrap中文网
+        logo: assets/images/logos/www_bootcss_com.png
+      - title: Dcloud
+        url: https://www.dcloud.io/
+        description: DCloud - 数字天堂官网、HBuilderX、HBuilder、uni-app、uniapp、5+、5plus、mui、wap2app、流应用、HTML5、小程序开发、跨平台App、多端框架
+        logo: assets/images/logos/www_dcloud_io.png
+      - title: vim学习
+        url: https://wsgzao.github.io/post/vim/
+        description: Vim从小白到入门 | HelloDog
+        logo: assets/images/logos/wsgzao_github_io.png
+      - title: vim手册
+        url: https://vimcdoc.sourceforge.net/doc/change.html#CTRL-A
+        description: 'VIM 中文帮助: 删除和替换文本'
+        logo: assets/images/logos/default.png
+      - title: 通过游戏学习vim操作
+        url: https://vim-adventures.com/
+        description: Learn VIM while playing a game - VIM Adventures
+        logo: assets/images/logos/default.png
+      - title: windows键盘快捷方式
+        url: https://support.microsoft.com/zh-cn/windows/windows-%E7%9A%84%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F-dcc61a57-8ff0-cffe-9796-cb9706c75eec#copilot
+        description: Windows 的键盘快捷方式 - Microsoft 支持
+        logo: assets/images/logos/support_microsoft_com.png
+      
+      - title: w3 选择器
+        url: https://www.w3.org/TR/selectors-3/#only-of-type-pseudo
+        description: Selectors Level 3
+        logo: assets/images/logos/www_w3_org.png
+      - title: MediaTypes
+        url: https://www.iana.org/assignments/media-types/media-types.xhtml
+        description: Media Types
+        logo: assets/images/logos/www_iana_org.png
+      - title: 极客导航
+        url: https://123.w3cschool.cn/webtools
+        description: 在线工具库_W3Cschool极客导航
+        logo: assets/images/logos/123_w3cschool_cn.png
+      - title: 最全程序员工具
+        url: https://tool.oschina.net/
+        description: 在线工具 —— OSCHINA.NET社区
+        logo: assets/images/logos/tool_oschina_net.png
+
+      - title: 极客搜索
+        url: https://s.geekbang.org/
+        description: 极客搜索
+        logo: assets/images/logos/s_geekbang_org.png
+      - title: W3school
+        url: https://www.w3school.com.cn/
+        description: w3school 在线教程
+        logo: assets/images/logos/www_w3school_com_cn.png
+      
+      - title: SDK.cn
+        url: https://www.sdk.cn/
+        description: 最新 - sdk社区 | 技术至上
+        logo: assets/images/logos/www_sdk_cn.png
+      - title: 图灵社区-图书
+        url: https://m.ituring.com.cn/tag/39
+        description: 图灵社区
+        logo: assets/images/logos/m_ituring_com_cn.png
+      - title: W3C
+        url: https://www.w3.org/
+        description: W3C
+        logo: assets/images/logos/www_w3_org.png
+      - title: 文件签名
+        url: https://www.garykessler.net/library/file_sigs.html
+        description: File Signatures
+        logo: assets/images/logos/default.png
+      - title: Md5解码
+        url: https://cmd5.com/
+        description: md5在线解密破解,md5解密加密
+        logo: assets/images/logos/cmd5_com.png
+      - title: Base64在线编码
+        url: https://base64.us/#
+        description: Base64 在线编码解码 | Base64 加密解密 - Base64.us
+        logo: assets/images/logos/base64_us.png
+      - title: InfoQ
+        url: https://www.infoq.cn/
+        description: InfoQ - 促进软件开发及相关领域知识与创新的传播-极客邦
+        logo: assets/images/logos/www_infoq_cn.png
+      - title: Medium Stories&ideas
+        url: https://medium.com/
+        description: 'Medium: Read and write stories.'
+        logo: assets/images/logos/medium_com.png
+      - title: 深度开源社区
+        url: https://www.open-open.com/
+        description: 开源项目,开源代码,开源文档,开源新闻,开源社区_深度开源
+        logo: assets/images/logos/www_open-open_com.png
+      - title: node.js
+        url: https://nodejs.cn/#google_vignette
+        description: Node.js 中文网
+        logo: assets/images/logos/nodejs_cn.png
+      - title: FEX
+        url: https://fex-team.github.io/
+        description: FEX - FEX
+        logo: assets/images/logos/fex-team_github_io.png
+      - title: CanIUse-Web
+        url: https://caniuse.com/
+        description: Can I use... Support tables for HTML5, CSS3, etc
+        logo: assets/images/logos/caniuse_com.png
+      - title: 大前端工具集
+        url: https://github.com/nieweidong/fetool#javascript
+        description: 'GitHub - nieweidong/fetool: 大前端的瑞士军刀，只记录有用的。'
+        logo: assets/images/logos/github_com.png
+      - title: MDN
+        url: https://developer.mozilla.org/zh-CN/
+        description: MDN Web Docs
+        logo: assets/images/logos/developer_mozilla_org.png
+      - title: 前端开发者手册
+        url: https://dwqs.gitbooks.io/frontenddevhandbook/content/
+        description: 前端开发者手册 · Front-end Developer HandBook
+        logo: assets/images/logos/dwqs_gitbooks_io.png
+      - title: IBM开发者
+        url: https://developer.ibm.com/
+        description: IBM Developer
+        logo: assets/images/logos/developer_ibm_com.png
+      - title: 51CTO
+        url: https://www.51cto.com/
+        description: 51cto.com
+        logo: assets/images/logos/default.png
+      - title: HTML5联盟
+        url: https://www.html5plus.org/doc/zh_cn/nativeui.html
+        description: HTML5+ API Reference
+        logo: assets/images/logos/www_html5plus_org.png
+      - title: 前端论坛
+        url: https://www.w3ctech.com/
+        description: 首页 - w3ctech
+        logo: assets/images/logos/www_w3ctech_com.png
+      - title: 前端API手册
+        url: https://devdocs.io/
+        description: DevDocs API Documentation
+        logo: assets/images/logos/devdocs_io.png
+      - title: REST介绍
+        url: https://datacommons.org/
+        description: Home - Data Commons
+        logo: assets/images/logos/datacommons_org.png
+      - title: 在线加密解密
+        url: https://encode.chahuo.com/
+        description: 在线加密解密 - chahuo.com
+        logo: assets/images/logos/default.png
+
+    - term: 极客世界
+      links:
+      - title: 毒药，机场手册
+        url: https://duyaoss.com/
+        description: DuyaoSS-机场测速和简介
+        logo: assets/images/logos/default.png
+
+      - title: 几鸡
+        url: https://xfltd.org/
+        description: XFLTD
+        logo: assets/images/logos/xfltd_org.png
+
+      - title: AutoHotkey
+        url: https://ahkcn.sourceforge.net/docs/AutoHotkey.htm
+        description: AutoHotkey
+        logo: assets/images/logos/ahkcn_sourceforge_net.png
+
+      - title: AutoHotkey社区
+        url: https://www.autoahk.com/
+        description: AutoAHK – 让电脑更懂你！
+        logo: assets/images/logos/default.png
+
+    - term: 人工智能
+      links:
+      - title: 结构化提示词
+        url: https://langgptai.feishu.cn/wiki/SBnjwqncziHTArkrtndc1jkEnOg
+        description: Docs
+        logo: assets/images/logos/langgptai_feishu_cn.png
+      - title: 虚拟信用卡
+        url: https://nobepay.com/app/login
+        description: nobepay.com
+        logo: assets/images/logos/nobepay_com.png
+      - title: 抱脸大模型
+        url: https://huggingface.co/
+        description: Hugging Face – The AI community building the future.
+        logo: assets/images/logos/huggingface_co.png
+      - title: AI网站分析
+        url: https://www.toolify.ai/zh/
+        description: 最好的AI导航站和AI工具列表 - Toolify
+        logo: assets/images/logos/www_toolify_ai.png
+      - title: AI Prompt
+        url: https://www.aishort.top/?tags=social
+        description: AiShort - 高效 AI 快捷指令平台 | 提示词管理与分享，生产力倍增 | AiShort - High-Efficiency
+          AI Shortcut Platform | Prompt Management & Productivity Tool
+        logo: assets/images/logos/www_aishort_top.png
+      - title: 哩布哩布
+        url: https://www.liblib.art/
+        description: LiblibAI-哩布哩布AI - 中国领先的AI创作平台
+        logo: assets/images/logos/www_liblib_art.png
+      - title: 秘塔AI
+        url: https://metaso.cn/
+        description: 秘塔AI搜索
+        logo: assets/images/logos/metaso_cn.png
+
+- taxonomy: 🧑‍🔧其他工具
+  icon: fa-wrench
+  list:
+
+    - term: 打字输入
+      links:
+      - title: typingclub
+        url: https://www.edclub.com/typingclub
+        description: 进阶打字速度练习，很休闲
+        logo: assets/images/logos/edclub.png
+      - title: 程序员版打字练习
+        url: https://www.speedcoder.net/lessons/
+        description: Typing Practice for Programmers | SpeedCoder
+        logo: assets/images/logos/www_speedcoder_net.png
+      - title: 打字练习测速
+        url: https://www.zaixiandazi.com/type/test/1000/2
+        description: 在线打字测试网 - The Cats of Roma 罗马印象
+        logo: assets/images/logos/www_zaixiandazi_com.png
+      - title: 打字速度测试
+        url: https://10fastfingers.com/typing-test/english
+        description: Typing Test English - 10FastFingers.com
+        logo: assets/images/logos/10fastfingers_com.png
+      - title: 打字练习
+        url: https://www.keybr.com/
+        description: Practice
+        logo: assets/images/logos/www_keybr_com.png
+      - title: 打字游戏
+        url: https://zty.pe/
+        description: ZType – Typing Game - Type to Shoot
+        logo: assets/images/logos/zty_pe.png
+      - title: 打字大师
+        url: https://www.typingmaster.com/
+        description: Typing Master - Learn To Type & Test Your Skills
+        logo: assets/images/logos/www_typingmaster_com.png
+      - title: 打字吧
+        url: http://www.daziba.cn/
+        description: 在线打字吧-我要学打字-在线指法拼音五笔搜狗打字,打字比赛测试,听打练习,打字训练软件网站
+        logo: assets/images/logos/www_daziba_cn.png
+      - title: typing.io
+        url: https://typing.io/lesson/java/guava/Collections2.java/1
+        description: 'Typing Test in Java: Practice typing Java'
+        logo: assets/images/logos/typing_io.png
+
+    - term: 法律资源
+      links:
+      - title: 聚法网
+        url: https://www.jufaanli.com/
+        description: 更专业的法律人伴侣_聚法案例
+        logo: assets/images/logos/www_jufaanli_com.png
+
+      - title: 法信网
+        url: https://www.faxin.cn/
+        description: 法信 - 懂法，更懂法律人
+        logo: assets/images/logos/www_faxin_cn.png
+
+    - term: 二维码
+      links:
+      - title: 尼玛二维码-工具站
+        url: https://nima.vip/
+        description: 二维码生成器-二维码在线生成工具-尼玛二维码（唯凡科技）
+        logo: assets/images/logos/vfan.ico
+      - title: 微微二维码
+        url: https://www.wwei.cn/weixin
+        description: 公众号、个人微信二维码美化-微微二维码
+        logo: assets/images/logos/www_wwei_cn.png
+      - title: 联图-二维码生成
+        url: https://www.liantu.com/
+        description: 在线二维码图片生成器_二维码扫描软件下载_联图二维码
+        logo: assets/images/logos/www_liantu_com.png
+      - title: 草料二维码
+        url: https://cli.im/text
+        description: 草料文本二维码生成器
+        logo: assets/images/logos/cli_im.png
+
+    - term: 其他工具
+      links:
+      - title: 本地搜索工具-everything
+        url: https://www.voidtools.com/zh-cn/
+        description: voidtools
+        logo: assets/images/logos/www_voidtools_com.png
+      - title: 中国气象局.天气预报
+        url: https://weather.cma.cn/web/weather/53698-sjz.html
+        description: weather.cma.cn
+        logo: assets/images/logos/weather_cma_cn.png
+      - title: 登山-结绳
+        url: https://www.animatedknots.com/climbing-knots
+        description: Climbing Knots by Grog | Learn How to Tie Climbing Knots using Step-by-Step
+          Animations | Animated Knots by Grog
+        logo: assets/images/logos/www_animatedknots_com.png
+      - title: 定位IP地址
+        url: https://dingweilishi.com/
+        description: ip段定位历史 定位记录 C段定位历史 定位历史
+        logo: assets/images/logos/dingweilishi_com.png
+      - title: 便民查询
+        url: https://www.bmcx.com/
+        description: 便民查询网 - 免费查询工具大全 - 原51240便民查询网
+        logo: assets/images/logos/www_bmcx_com.png
+      - title: 十分钟邮箱
+        url: https://10minutemail.net/m/?lang=zh-cn
+        description: 10分钟邮箱 - 10 Minute Mail
+        logo: assets/images/logos/10minutemail_net.png
+      - title: PDF转换工具
+        url: https://www.ilovepdf.com/
+        description: iLovePDF | Online PDF tools for PDF lovers
+        logo: assets/images/logos/www_ilovepdf_com.png
+      - title: 配音神器
+        url: https://peiyinshenqi.com/
+        description: 配音神器pro网页版 - 文字转语音软件 | 专业配音工具
+        logo: assets/images/logos/peiyinshenqi_com.png
+      - title: 文件空投
+        url: https://www.airportal.cn/
+        description: AirPortal 空投快传
+        logo: assets/images/logos/www_airportal_cn.png
+      - title: 无限邮箱
+        url: https://www.2925.com/login/
+        description: 2925邮箱-无限邮
+        logo: assets/images/logos/www_2925_com.png
+      - title: 模拟攒机
+        url: https://zj.zol.com.cn/
+        description: 【模拟攒机－模拟装机】在线攒电脑－ZOL中关村在线
+        logo: assets/images/logos/zj_zol_com_cn.png
+
+    - term: PPT资源
+      links:
+      - title: PPT模板
+        url: https://www.officeplus.cn/PPT/template/
+        description: 微软官方PPT模板下载- 热门全新PPT模板完整下载- OfficePLUS (officeplus.cn)
+        logo: assets/images/logos/www_officeplus_cn.png
+      - title: PPT模板2
+        url: https://www.hippter.com/
+        description: HiPPTER | PPT资源导航 | PPT模板图表等设计素材免费下载
+        logo: assets/images/logos/www_hippter_com.png
+      - title: PPT模板3
+        url: https://www.pptfans.cn/?utm_source=qq&utm_medium=social
+        description: 人机验证
+        logo: assets/images/logos/www_pptfans_cn.png
+
+    - term: 公众号编辑
+      links:
+      - title: 公众号文章编辑-135编辑
+        url: https://www.135editor.com/
+        description: 135编辑器官网_微信公众号图文排版工具_一键在线文章内容编辑器
+        logo: assets/images/logos/www_135editor_com.png
+      - title: 公众号文章编辑-96编辑
+        url: https://bj.96weixin.com/
+        description: 96微信编辑器官网--微信公众平台图文排版工具 微信编辑器哪个好 在线内容编辑软件
+        logo: assets/images/logos/bj_96weixin_com.png
+
+    - term: 软件工具
+      links:
+      - title: 手机软件下载
+        url: https://apkpure.com/cn/search?q=rosetta
+        description: apkpure.com
+        logo: assets/images/logos/apkpure_v2.ico
+      - title: 下载吧
+        url: https://www.xiazaiba.com/hot/adobecc2015/
+        description: adobe cc 2015_Adobe CC 2015全套下载_Adobe CC 2015全系列软件-下载吧
+        logo: assets/images/logos/www_xiazaiba_com.png
+      - title: '#软件管家@下载主页#'
+        url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkxODc4OTIzNw==&action=getalbum&album_id=3745704944024961025
+        description: mp.weixin.qq.com
+        logo: assets/images/logos/mp_weixin_qq_com.png
+      - title: 马克喵-Mac软件下载
+        url: https://www.macat.vip/
+        description: 马克喵_获取最新MAC破解软件
+        logo: assets/images/logos/www_macat_vip.png
+      - title: 一起感悟-名言警句
+        url: http://www.yiqig.com/
+        description: 人生感悟的文章/句子_经典语录名人名言警句大全_一起感悟人生网
+        logo: assets/images/logos/default.png
+      - title: 怀旧版win画图工具
+        url: https://jspaint.app/#local:a0e65900b3bb
+        description: JS Paint
+        logo: assets/images/logos/jspaint_app.png
+      - title: 李涛PS高手之路
+        url: https://study.163.com/course/introduction.htm?courseId=203001#/courseDetail
+        description: 李涛Photoshop高手之路基础篇 - 网易云课堂
+        logo: assets/images/logos/study_163_com.png
+      - title: 摸鱼小网站
+        url: https://www.adultswim.com/etcetera/
+        description: Adult Swim - Etcetera
+        logo: assets/images/logos/www_adultswim_com.png
+      - title: 像素世界
+        url: http://www.effectgames.com/demos/canvascycle/
+        description: 'Canvas Cycle: True 8-bit Color Cycling with HTML5'
+        logo: assets/images/logos/default.png
+      - title: 两步路
+        url: https://www.2bulu.com/
+        description: 两步路户外网-户外助手官网，GPS轨迹下载，约伴活动，户外商城，驴友社区
+        logo: assets/images/logos/www_2bulu_com.png
+      - title: 对称图
+        url: http://weavesilk.com/
+        description: Silk – Interactive Generative Art
+        logo: assets/images/logos/weavesilk_com.png
+      - title: 全历史
+        url: https://www.allhistory.com/
+        description: 全历史
+        logo: assets/images/logos/www_allhistory_com.png
+      - title: 毒鸡汤
+        url: http://www.nows.fun/
+        description: 毒鸡汤 - 壮士可要来一碗！
+        logo: assets/images/logos/default.png
+      - title: 你好污啊
+        url: https://www.nihaowua.com/
+        description: 你好污啊
+        logo: assets/images/logos/www_nihaowua_com.png
+      - title: 弯曲文本
+        url: https://curvedtext.co/zh
+        description: 免费在线弯曲文本生成器 - 弯曲文本
+        logo: assets/images/logos/curvedtext_co.png
+      - title: 蓝屏
+        url: https://anon.blue/
+        description: anon.blue
+        logo: assets/images/logos/anon_blue.png
+      - title: 马克飞象markdown
+
+- taxonomy: 🧑‍🎨设计常用
+  icon: fa-paint-brush
+  list:
+    - term: 壁纸图片
+      links:
+      - title: PS大神集合
+        url: https://mp.weixin.qq.com/s?__biz=MzAxMDU5OTQ5NA==&mid=2652567467&idx=1&sn=42f3cabb6fbc7c899f7f088008bf9444&chksm=80a3ba82b7d4339433bb2ce8cf06135e193042417de81c7c3efcfd6e7ea29dadb5538b5179a7&mpshare=1&scene=23&srcid=1001TezNSrNSeCi9Bcc9h7lD#rd
+        description: 本以为今天不用膜拜大神了，谁知道，彻底的跪了
+        logo: assets/images/logos/mp_weixin_qq_com.png
+
+      - title: 壁纸下载网站1
+        url: https://www.10wallpaper.com/
+        description: Beauty Your Desktop - 4K,5K Best High Quality Wallpapers Album Free
+          Download Site | 10wallpaper.com
+        logo: assets/images/logos/www_10wallpaper_com.png
+
+      - title: 壁纸下载网站2
+        url: https://wallhaven.cc/
+        description: Awesome Wallpapers - wallhaven.cc
+        logo: assets/images/logos/wallhaven_cc.png
+      - title: 壁纸下载网站3
+        url: https://wallpapers.com/
+        description: Wallpapers.com | 1,500,000+ Free HD Wallpapers for Desktop, Mobiles
+          & Tablets
+        logo: assets/images/logos/wallpapers_com.png
+
+      - title: 壁纸下载网站4
+        url: https://wallpapershome.com/
+        description: wallpapershome.com
+        logo: assets/images/logos/wallpapershome.ico
+
+      - title: 免费图片下载
+        url: https://www.hippopx.com/zh
+        description: Hippopx - 精美的免版权图库
+        logo: assets/images/logos/www_hippopx_com.png
+
+      - title: 免费图片下载2
+        url: https://www.pexels.com/search/human/
+        description: pexels.com
+        logo: assets/images/logos/pexels.ico
+
+      - title: 免费图片下载
+        url: https://www.freepik.com/popular-photos
+        description: freepik.com
+        logo: assets/images/logos/freepik.ico
+
+      - title: 创意壁纸画廊
+        url: https://gratisography.com/
+        description: Gratisography - Free High-Resolution Stock Photos
+        logo: assets/images/logos/gratisography_com.png
+
+      - title: 免税图片
+        url: https://pixabay.com/zh/
+        description: pixabay.com
+        logo: assets/images/logos/pixabay-32x32.png
+
+      - title: 全景图片
+        url: https://www.quanjing.com/
+        description: quanjing.com
+        logo: assets/images/logos/quanjing.ico
+
+      - title: 图片
+        url: https://www.pexels.com/zh-cn/
+        description: pexels.com
+        logo: assets/images/logos/pexels.ico
+
+      - title: 免费图片
+        url: https://www.freeimages.com/
+        description: Free Photos, Clipart, Vectors, PSD, & Icons | FreeImages
+        logo: assets/images/logos/www_freeimages_com.png
+
+      - title: 图片素材整理
+        url: https://mp.weixin.qq.com/s/x8Utw8cLcykcfMJwIj2grg
+        description: 22个无版权、免费、高清图片素材网站整理！（合集）
+        logo: assets/images/logos/mp_weixin_qq_com.png
+
+      - title: Pinterest
+        url: https://www.pinterest.com/
+        description: Pinterest
+        logo: assets/images/logos/www_pinterest_com.png
+
+      - title: 抠图
+        url: https://www.remove.bg/zh/g/marketing
+        description: 促销广告图片修图_营销宣传图片抠图换背景 | remove.bg – remove.bg
+        logo: assets/images/logos/www_remove_bg.png
+
+      - title: 食物照片
+        url: https://www.foodiesfeed.com/
+        description: Pictures of food • Foodiesfeed • Food picturesPictures of food •
+          Foodiesfeed • Food pictures
+        logo: assets/images/logos/www_foodiesfeed_com.png
+
+      - title: 位图下载
+        url: https://undraw.co/illustrations
+        description: Illustrations | unDraw
+        logo: assets/images/logos/undraw_co.png
+
+      - title: photoshop在线
+        url: https://www.adobe.com/products/photoshop/online.html?wf=editor
+        description: adobe.com
+        logo: assets/images/logos/adobe.ico
+    
+    - term: 配色方案
+      links:
+      - title: 色环
+        url: https://www.sessions.edu/color-calculator/
+        description: Color Wheel - Color Calculator | Sessions College
+        logo: assets/images/logos/www_sessions_edu.png
+      - title: 色彩设计
+        url: https://www.materialpalette.com/
+        description: Material Design Color Palette Generator - Material Palette
+        logo: assets/images/logos/www_materialpalette_com.png
+      - title: 色彩公式
+        url: https://coolors.co/palettes/trending
+        description: Trending Color Palettes - Coolors
+        logo: assets/images/logos/coolors_co.png
+      - title: 色彩搭配
+        url: https://flatuicolors.com/
+        description: Flat UI Colors 2 - 14 Color Palettes, 280 colors 🎨
+        logo: assets/images/logos/flatuicolors_com.png
+      - title: 颜色搭配
+        url: https://color.adobe.com/zh/create/color-wheel
+        description: color.adobe.com
+        logo: assets/images/logos/color_adobe_com.png
+      - title: 安全色彩-不溢出
+        url: http://colorsafe.co/
+        description: Color Safe - accessible web color combinations
+        logo: assets/images/logos/default.png
+      - title: RGB颜色对照表
+        url: https://www.917118.com/tool/color_3.html
+        description: RGB颜色对照表
+        logo: assets/images/logos/www_917118_com.png
+
+    - term: 图标字体
+      links:
+      - title: loading图标
+        url: https://loading.io/#editor
+        description: loading.io
+        logo: assets/images/logos/loading.png
+      - title: 剪切图标素材
+        url: https://openclipart.org/search?p=2
+        description: Openclipart - Clipping Culture
+        logo: assets/images/logos/openclipart_org.png
+      - title: logo免费设计
+        url: https://www.logoko.com.cn/design
+        description: 免费LOGO在线制作生成_公司LOGO设计在线生成工具 - 标点狗
+        logo: assets/images/logos/www_logoko_com_cn.png
+      - title: LOGO-MAKER
+        url: https://www.logomaker.com.cn/
+        description: logo免费设计在线生成_公司logo设计在线制作神器 - 标智客
+        logo: assets/images/logos/www_logomaker_com_cn.png
+      - title: 图标表情搜索
+        url: https://www.flaticon.com/
+        description: flaticon.com
+        logo: assets/images/logos/flaticon.ico
+      - title: 图标搜索
+        url: https://www.thinkcmf.com/font/search.html
+        description: Font Awesome图标搜索--ThinkCMF
+        logo: assets/images/logos/www_thinkcmf_com.png
+      - title: 图标设计
+        url: https://www.iconfinder.com/
+        description: 8,925,000+ free and premium vector icons, illustrations and 3D illustrations
+        logo: assets/images/logos/www_iconfinder_com.png
+      - title: iconfont
+        url: https://www.iconfont.cn/
+        description: iconfont-阿里巴巴矢量图标库
+        logo: assets/images/logos/www_iconfont_cn.png
+      - title: Font Awesome
+        url: https://www.bootcss.com/p/font-awesome/
+        description: Font Awesome, 为 Bootstrap 而创造的图标字体
+        logo: assets/images/logos/www_bootcss_com.png
+
+    - term: 摄影图像
+      links:
+      - title: 大疆-天空之城
+        url: https://www.skypixel.com/explore
+        description: The world's biggest drone photo and video sharing platform | SkyPixel.com
+        logo: assets/images/logos/www_skypixel_com.png
+      - title: 摄影笔记
+        url: https://www.sybj.com/
+        description: 摄影笔记 每天一条摄影新知 - 北京鑫锐视觉科技有限公司
+        logo: assets/images/logos/www_sybj_com.png
+      - title: 摄影网址导航
+        url: https://www.5566.net/sy-4.htm
+        description: 摄影网址大全
+        logo: assets/images/logos/www_5566_net.png
+      - title: 摄影-图虫
+        url: https://flickr.tuchong.com/
+        description: flickr摄友会 - 图虫摄影网
+        logo: assets/images/logos/flickr_tuchong_com.png
+      - title: 摄影-500px
+        url: https://500px.com/?utm_source=qq&utm_medium=social
+        description: 500px
+        logo: assets/images/logos/500px_com.png
+      - title: 500px
+        url: https://500px.com.cn/community/discover
+        description: 热门摄影作品 - 优秀摄影作品欣赏 - 500px摄影社区
+        logo: assets/images/logos/500px_com_cn.png
+      - title: 图虫
+        url: https://tuchong.com/community
+        description: 图虫网 - 优质摄影师交流社区
+        logo: assets/images/logos/tuchong_com.png
+      - title: 环球地理
+        url: https://www.nationalgeographic.com/
+        description: National Geographic
+        logo: assets/images/logos/nationGeofavicon.ico
+      - title: 摄影-免费图片
+        url: https://librestock.com/?utm_source=qq&utm_medium=social
+        description: Librestock Photos - Free Stock Photo Search Engine
+        logo: assets/images/logos/librestock_com.png
+      - title: 中国摄影家协会网
+        url: https://www.cpanet.org.cn/zphyzp.html
+        description: 会员作品--中国摄影家协会网
+        logo: assets/images/logos/www_cpanet_org_cn.png
+      - title: AI摄影公式
+        url: https://grass-sale-436.notion.site/Ai-0bac3ece9a9047b2b92273b68b7be452
+        description: Your connected workspace for wiki, docs & projects | Notion
+        logo: assets/images/logos/grass-sale-436_notion_site.png
+      - title: 环游世界-3D视频
+        url: http://www.airpano.org.cn/
+        description: 360°航拍全景，全球360°虚拟游览，地球上最有趣的地方照片
+        logo: assets/images/logos/default.png
+      - title: 3D和AR平台
+        url: https://sketchfab.com/
+        description: Sketchfab - The best 3D viewer on the web
+        logo: assets/images/logos/sketchfab_com.png
+
+    - term: UE设计
+      links:
+      - title: 创意内容平台
+        url: https://www.topys.cn/
+        description: TOPYS | 创意内容平台 OPEN YOUR MIND
+        logo: assets/images/logos/www_topys_cn.png
+      - title: 站酷
+        url: https://www.zcool.com.cn/
+        description: 站酷ZCOOL-设计师互动平台-打开站酷,发现更好的设计!
+        logo: assets/images/logos/www_zcool_com_cn.png
+      - title: adobe素材
+        url: https://stock.adobe.com/
+        description: stock.adobe.com
+        logo: assets/images/logos/stock.adobe.ico
+      - title: 90设计
+        url: https://90sheji.com/so/sc-3791605-1-0-0-0-0-1.html
+        description: 平面素材海报-平面素材图片banner-90海报模板
+        logo: assets/images/logos/90sheji_com.png
+      - title: 设计达人
+        url: https://www.shejidaren.com/
+        description: 设计达人 | 爱设计，爱分享。
+        logo: assets/images/logos/www_shejidaren_com.png
+      - title: 海报设计
+        url: https://90sheji.com/?lujin=/sucai/-0-0.html
+        description: 90设计网，电商设计模板 PNG素材 背景图免费下载网站
+        logo: assets/images/logos/90sheji_com.png
+      - title: 网页UI设计
+        url: https://www.siteinspire.com/
+        description: Siteinspire | A showcase of the web’s finest design + talent
+        logo: assets/images/logos/siteinspire.png
+      - title: 响应式设计
+        url: https://blocsapp.com/mac/
+        description: The Ultimate Mac Website Builder - Blocs
+        logo: assets/images/logos/blocsapp_com.png
+      - title: 软件UE设计
+        url: https://www.pttrns.com/
+        description: Pttrns Homepage - Pttrns
+        logo: assets/images/logos/www_pttrns_com.png
+      - title: UE设计
+        url: https://www.awwwards.com/#market
+        description: Awwwards - Website Awards - Best Web Design Trends
+        logo: assets/images/logos/awwwards.png
+      - title: UML设计工具
+        url: https://zenuml.com/
+        description: A Free Sequence Diagram Online Tool | ZenUML
+        logo: assets/images/logos/zenuml_com.png
+      - title: UI设计题
+        url: https://cantunsee.space/
+        description: Can't Unsee
+        logo: assets/images/logos/cantunsee_space.png
+      - title: 优秀设计UE
+        url: https://dribbble.com/
+        description: Dribbble - Discover the World’s Top Designers & Creative Professionals
+        logo: assets/images/logos/favicon-452601365a822699d1d5db718ddf7499d036e8c2f7da69e85160a4d2f83534bd.ico
+      - title: 贝塞尔曲线练习
+        url: https://bezier.method.ac/
+        description: The Bézier Game
+        logo: assets/images/logos/bezier_method_ac.png
+      - title: 设计素材
+        url: http://www.sccnn.com/
+        description: 素材中国www.sccnn.com_素材CNN_素材共享平台
+        logo: assets/images/logos/www_sccnn_com.png
+      - title: 创意广告圈
+        url: https://www.adquan.com/
+        description: 广告门 | 一个行业的跌宕起伏
+        logo: assets/images/logos/www_adquan_com.png
+      - title: Adobe创意画廊
+        url: https://www.behance.net/galleries/
+        description: Behance
+        logo: assets/images/logos/behance.png
+      - title: 蝉妈妈-视频数据分析
+        url: https://www.chanmama.com/
+        description: 蝉妈妈 - 短视频内容营销与直播电商洞察平台
+        logo: assets/images/logos/www_chanmama_com.png
+      - title: 视频号大盘
+        url: https://xs.newrank.cn/Account/accountTape
+        description: 新视—视频号数据分析工具
+        logo: assets/images/logos/xs_newrank_cn.png
+
+    - term: 产品经理
+      links:
+      - title: 用户设计体验平台
+        url: https://www.ui.cn/
+        description: UICN用户体验设计平台
+        logo: assets/images/logos/www_ui_cn.png
+      - title: 优秀设计UE的用户
+        url: https://dribbble.com/designers
+        description: Hire Top Freelance Graphic Designers - Search Designers Instantly
+        logo: assets/images/logos/favicon-452601365a822699d1d5db718ddf7499d036e8c2f7da69e85160a4d2f83534bd.ico
+      - title: 人人都是产品经理
+        url: https://www.woshipm.com/
+        description: 人人都是产品经理 | 产品经理、产品爱好者学习交流平台
+        logo: assets/images/logos/www_woshipm_com.png
+      - title: 互联网产品经理@唐杰
+        url: https://tangjie.me/
+        description: 互联网产品经理@唐杰
+        logo: assets/images/logos/tangjie_me.png
+
+    - term: 艺术设计
+      links:
+      - title: 艺术字
+        url: https://wordart.com/create
+        description: Edit word art - WordArt.com
+        logo: assets/images/logos/wordart_com.png
+      - title: Google艺术与文化
+        url: https://artsandculture.google.com/
+        description: Google Arts & Culture
+        logo: assets/images/logos/artsandculture_google_com.png
+      - title: 李小龙简介
+        url: https://artsandculture.google.com/story/NwWhvE6rSFCjIQ
+        description: 'Bruce Lee: An Introduction — Google Arts & Culture'
+        logo: assets/images/logos/artsandculture_google_com.png
+      - title: 艺术馆
+        url: https://foto.gallerix.asia/
+        description: 艺术摄影，摄影师的个人网站 | Gallerix 艺术俱乐部
+        logo: assets/images/logos/foto_gallerix_asia.png
+      - title: 观沧海-共享地图知识
+        url: https://www.ageeye.cn/
+        description: 观沧海 - 地图分享知识
+        logo: assets/images/logos/www_ageeye_cn.png
+      - title: 微词云
+        url: https://design.weiciyun.com/edit/a1d89c67b632c2eaaf332352b4ebfb51
+        description: 词云制作 - 微词云
+        logo: assets/images/logos/design_weiciyun_com.png
+
+- taxonomy: 😎休闲娱乐
+  icon: fa-gamepad
+  list:
+  - term: 影视资源
+    links:
+    - title: 电影推荐
+      url: https://www.mvcat.com/
+      description: 电影推荐 · MVCAT
+      logo: assets/images/logos/www_mvcat_com.png
+    - title: cobalt下载
+      url: https://cobalt.tools/
+      description: 一款全能的视频下载工具
+      logo: assets/images/logos/cobalt.png
+    - title: 新片场
+      url: https://www.xinpianchang.com/
+      description: 新片场 - 与百万创作人一起成长，用作品打动世界
+      logo: assets/images/logos/www_xinpianchang_com.png
+    - title: 视频下载工具
+      url: https://savevideo.me/us/
+      description: SAVEVIDEO.ME - Download Facebook Video, Vimeo, Twitter Video, Instagram,
+        TikTok and more!
+      logo: assets/images/logos/savevideo_me.png
+    - title: 视频转换工具
+      url: https://videoconverter.wondershare.com/convert/mp4-converter-downloader.html
+      description: Best 6 Keepvid Alternatives to Convert Your Online Video to MP4
+      logo: assets/images/logos/videoconverter_wondershare_com.png
+    - title: 油管视频下载工具
+      url: https://www.clipconverter.cc/3/
+      description: YouTube to MP4 & MP3 Converter - ClipConverter.cc
+      logo: assets/images/logos/www_clipconverter_cc.png
+    - title: m3u8文件测试
+      url: http://www.86y.org/m3u8test.html
+      description: m3u8地址测试
+      logo: assets/images/logos/www_86y_org.png
+    - title: 油管视频Remix
+      url: https://rave.dj/
+      description: RaveDJ - Music Mixer
+      logo: assets/images/logos/rave_dj.png
+    - title: 海盗湾-电影资源
+      url: https://thepiratebay.org/index.html
+      description: Download music, movies, games, software! The Pirate Bay - The galaxy's
+        most resilient BitTorrent site
+      logo: assets/images/logos/thepiratebay_org.png
+    - title: newCGer-AE模板
+      url: https://www.newcger.com/
+      description: 新CG儿 - 数字视觉分享平台 | AE模板_视频素材_免费下载
+      logo: assets/images/logos/www_newcger_com.png
+    - title: 来画，数字动画平台
+      url: https://www.laihua.com/animation
+      description: 来画动画-动画和数字人智能生成平台
+      logo: assets/images/logos/www_laihua_com.png
+
+  - term: 游戏娱乐
+    links:
+    - title: 成语接龙-一个顶俩
+      url: https://lia.ustc-zzzz.net/
+      description: Yi Ge Ding Lia
+      logo: assets/images/logos/default.png
+    - title: 信任的进化
+      url: https://dccxi.com/trust/
+      description: 信任的进化
+      logo: assets/images/logos/dccxi_com.png
+    - title: 电子游戏博物馆
+      url: https://noclip.website/
+      description: noclip
+      logo: assets/images/logos/noclip.png
+    - title: 游戏机博物馆
+      url: https://www.famicn.com/
+      description: 中文家用游戏博物馆
+      logo: assets/images/logos/default.png
+    - title: 初音未来
+      url: https://aidn.jp/mikuwarp/
+      description: MIKUWARP
+      logo: assets/images/logos/aidn_jp.png
+    - title: 穿越地球
+      url: https://2050.earth/
+      description: 'Earth 2050: A glimpse into the future | Kaspersky'
+      logo: assets/images/logos/2050_earth.png
+    - title: 这个人不存在
+      url: https://thispersondoesnotexist.com/
+      description: thispersondoesnotexist.com
+      logo: assets/images/logos/thispersondoesnotexist_com.png
+    - title: 假装更新
+      url: https://fakeupdate.net/
+      description: FakeUpdate.net - Windows Update Prank by fediaFedia
+      logo: assets/images/logos/default.png
+    - title: 天空有多高
+      url: https://www.secaibi.com/howbigisspace/
+      description: 天空有多高
+      logo: assets/images/logos/www_secaibi_com.png
+    - title: 世界进化史
+      url: https://calculatingempires.net/?pos=42272.20%2C8725.00%2C12.6041
+      description: Calculating Empires
+      logo: assets/images/logos/calculatingempires_net.png
+    - title: 宇宙缩略图
+      url: http://stars.chromeexperiments.com/
+      description: 100,000 Stars
+      logo: assets/images/logos/stars_chromeexperiments_com.png
+    - title: Timeline of Earth
+      url: https://timelineofearth.com/
+      description: Timeline of Earth
+      logo: assets/images/logos/default.png
+
+  - term: 音乐音效
+    links:
+    - title: 随机按键随机音乐
+      url: https://aidn.jp/mikutap/
+      description: Mikutap
+      logo: assets/images/logos/aidn_jp.png
+    - title: foobar音乐播放器
+      url: https://www.foobar2000.org/support
+      description: 'foobar2000: Support and community'
+      logo: assets/images/logos/www_foobar2000_org.png
+    - title: 刘志进音乐直连
+      url: https://music.liuzhijin.cn/
+      description: 音乐直链搜索|音乐在线试听 - by 刘志进实验室
+      logo: assets/images/logos/music_liuzhijin_cn.png
+    - title: 学习音乐
+      url: https://learningmusic.ableton.com/zh-Hans/index.html
+      description: 介绍 | Learning Music
+      logo: assets/images/logos/learningmusic_ableton_com.png
+    - title: 落网雀跃
+      url: https://www.indie.cn/
+      description: 雀乐
+      logo: assets/images/logos/www_indie_cn.png
+    - title: 发现音乐
+      url: https://www.last.fm/zh/music
+      description: 音乐 | Last.fm
+      logo: assets/images/logos/www_last_fm.png
+    - title: 睡眠白噪音
+      url: https://generative.fm/
+      description: Generative.fm – Endless ambient music generators
+      logo: assets/images/logos/generative_fm.png
+    - title: rainScope
+      url: https://rainyscope.com/#slide-1
+      description: Rainyscope | Rain sound generator - The beauty of the rain sounds.
+      logo: assets/images/logos/rainyscope_com.png
+    - title: 雨季情绪(白噪音)
+      url: https://rainymood.com/
+      description: 'Rainy Mood • #1 Rain Sounds • Sleep & Study'
+      logo: assets/images/logos/rainymood_com.png
+    - title: 大海的声音
+      url: https://virtocean.com/
+      description: Virtual Ocean | Sea and ocean sounds noise generator
+      logo: assets/images/logos/virtocean_com.png
+    - title: 钢琴音乐
+      url: https://piano-genie.glitch.me/
+      description: Piano Genie
+      logo: assets/images/logos/piano-genie_glitch_me.png
+    - title: 键盘钢琴
+      url: https://touchpianist.com/
+      description: Touch Pianist - Tap in Rhythm and Perform Your Favourite Music
+      logo: assets/images/logos/touchpianist_com.png
+    - title: 广播花园
+      url: https://radio.garden/
+      description: Radio Garden – Explore live radio by rotating the globe
+      logo: assets/images/logos/radio_garden.png
+    - title: 会演奏的猫
+      url: https://bongo.cat/
+      description: Bongo Cat
+      logo: assets/images/logos/bongo_cat.png
+    - title: 字节跳动,音乐
+      url: https://typatone.com/
+      description: Typatone
+      logo: assets/images/logos/typatone_com.png
+    - title: 噪音
+      url: https://annoisli.com/
+      description: Annoisli
+      logo: assets/images/logos/annoisli_com.png
+    - title: 音效
+      url: https://www.soundsnap.com/tags/menus_and_interfaces
+      description: Menus And Interfaces Sound Effects Download | SFX Library | Soundsnap
+      logo: assets/images/logos/www_soundsnap_com.png
+    - title: 视频伴奏下载
+      url: https://icons8.com/music/categories/cartoons
+      description: Cartoons Music Category
+      logo: assets/images/logos/icons8_com.png
+    - title: 吉他和弦图谱
+      url: https://www.standardguitar.com/c-major-pentatonic-scale
+      description: C Major Pentatonic Scale | Standard Guitar
+      logo: assets/images/logos/www_standardguitar_com.png
