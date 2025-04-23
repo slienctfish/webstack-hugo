@@ -1,0 +1,11 @@
+- taxonomy: 灵感采集
+  icon: fa-lightbulb-o
+  list: 
+    - term: 发现产品
+      links:
+        - title: Producthunt
+          logo: assets/images/logos/producthunt.png
+          url: https://www.producthunt.com/
+          description: 发现新鲜有趣的产品
+
+// icon:对应的fonts 来自 网站:https://fontawesome.com/v4/icons/
