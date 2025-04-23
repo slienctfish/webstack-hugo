@@ -1,0 +1,30 @@
+<svg width="66" height="66" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M96.987 37.883a3.104 3.104 0 013.078 0l25.348 14.706c.966.545 1.509 1.573 1.509 2.663v29.35c0 1.09-.604 2.118-1.509 2.663l-25.348 14.705a3.102 3.102 0 01-3.078 0L71.639 87.265c-.966-.545-1.51-1.573-1.51-2.663v-29.41c0-1.09.604-2.119 1.51-2.664l25.348-14.645z"
+        fill="url(#prefix__paint0_linear_337_7902)" transform="translate(-66 -37)" />
+    <path opacity=".66"
+        d="M59.292 15.528L34.065.823A4.192 4.192 0 0033.28.52L4.733 49.54c.242.302.544.544.845.726l25.409 14.706c.784.423 1.63.544 2.414.242l26.676-48.958c-.181-.303-.483-.545-.785-.727z"
+        fill="#B4B4B4" />
+    <path
+        d="M100.004 101.97l25.288-14.705c.966-.545 1.388-1.573 1.388-2.663v-.12L99.28 37.58c-.784-.242-1.63-.121-2.353.302L71.82 52.407l27.28 49.866a3.12 3.12 0 00.904-.303z"
+        fill="url(#prefix__paint1_linear_337_7902)" transform="translate(-66 -37)" />
+    <text x="15" y="44" fill="#fff" style="font-weight:bold; font-size: 35px;">中</text>
+    <defs>
+        <linearGradient id="prefix__paint0_linear_337_7902" x1="70.117" y1="69.914" x2="126.971" y2="69.914"
+            gradientUnits="userSpaceOnUse">
+            <stop offset=".005" />
+            <stop offset=".194" stop-color="#171717" />
+            <stop offset=".542" stop-color="#3D3D3D" />
+            <stop offset=".824" stop-color="#545454" />
+            <stop offset="1" stop-color="#5C5C5C" />
+        </linearGradient>
+        <linearGradient id="prefix__paint1_linear_337_7902" x1="69.724" y1="69.872" x2="128.373" y2="69.872"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5C5C5C" />
+            <stop offset=".176" stop-color="#545454" />
+            <stop offset=".458" stop-color="#3D3D3D" />
+            <stop offset=".806" stop-color="#171717" />
+            <stop offset=".995" />
+        </linearGradient>
+    </defs>
+</svg>

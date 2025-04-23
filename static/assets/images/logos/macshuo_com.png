@@ -1,0 +1,896 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>MacTalk-池建强的随想录 | 让创作成为一种生活方式</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://macshuo.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="https://macshuo.com/wp-content/themes/reddle/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//macshuo.com' />
+<link rel="alternate" type="application/rss+xml" title="MacTalk-池建强的随想录 &raquo; Feed" href="https://macshuo.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="MacTalk-池建强的随想录 &raquo; 评论Feed" href="https://macshuo.com/?feed=comments-rss2" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/macshuo.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.6"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://macshuo.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.6' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://macshuo.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://macshuo.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://macshuo.com/wp-includes/css/classic-themes.min.css?ver=6.2.6' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='reddle-style-css' href='https://macshuo.com/wp-content/themes/reddle/style.css?ver=6.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://macshuo.com/wp-content/plugins/jetpack/css/jetpack.css?ver=11.0.2' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://macshuo.com/index.php?rest_route=/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://macshuo.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://macshuo.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.6" />
+<style>img#wpstats{display:none}</style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>	<style type="text/css">
+	#masthead img {
+		float: left;
+	}
+			#site-description {
+			color: #777 !important;
+		}
+		</style>
+			<style type="text/css" id="wp-custom-css">
+			p {
+	font-size: 120%;
+}
+.entry-content blockquote::before {
+	content: "";
+	border-left: #eee solid 4px;
+	top: 0;
+	left: -0.23em;
+	bottom: 0;
+}		</style>
+		</head>
+
+<body class="home blog primary secondary indexed single-author fluid">
+<div id="page" class="hfeed">
+	<header id="masthead" role="banner">
+		<div class="site-branding">
+			<h1 id="site-title"><a href="https://macshuo.com/" title="MacTalk-池建强的随想录" rel="home">MacTalk-池建强的随想录</a></h1>
+			<h2 id="site-description">让创作成为一种生活方式</h2>
+		</div><!-- .site-branding -->
+
+		
+				<nav id="access" role="navigation">
+			<div class="skip-link assistive-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Main menu</button>
+			<div class="menu-%e4%b8%bb%e8%8f%9c%e5%8d%95-container"><ul id="primary-menu" class="menu"><li id="menu-item-1580" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-1580"><a href="https://macshuo.com">首页</a></li>
+<li id="menu-item-1584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1584"><a href="https://macshuo.com/?page_id=1579">夜航西飞计划</a></li>
+<li id="menu-item-1583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1583"><a href="https://macshuo.com/?page_id=2">我是谁</a></li>
+<li id="menu-item-1675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1675"><a href="https://macshuo.com/?page_id=1673">胶片影像</a></li>
+</ul></div>		</nav><!-- #access -->
+			</header><!-- #masthead -->
+
+	<div id="main">
+		<div id="primary">
+			<div id="content" role="main">
+
+			
+					<nav id="nav-above">
+		<h1 class="assistive-text section-heading">Post navigation</h1>
+
+	
+				<div class="nav-previous"><a href="https://macshuo.com/favicon.ico/?paged=2" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+		
+		
+	
+	</nav><!-- #nav-above -->
+	
+								
+					
+<article id="post-1969" class="post-1969 post type-post status-publish format-standard hentry category-uncategorized">
+	
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="https://macshuo.com/?p=1969" rel="bookmark">墨问便签正成为历史</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Posted by <span class="author vcard"><a class="url fn n" href="https://macshuo.com/?author=1" title="View all posts by MacTalk" rel="author">MacTalk</a></span></span>		</div><!-- .entry-meta -->
+		
+				<p class="comments-link"><a href="https://macshuo.com/?p=1969#respond"><span class="no-reply">0</span></a></p>
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		
+<p>墨问便签这款产品，最初是用来做 demo 的，试试小程序的能力。另外，有一点纪念之前做的锤子便签的意味，就取了个名字，叫墨问便签。</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://macshuo.com/wp-content/uploads/2025/04/20250422-182754.png"><img decoding="async" width="480" height="480" src="https://macshuo.com/wp-content/uploads/2025/04/20250422-182754.png" alt="" class="wp-image-1971" srcset="https://macshuo.com/wp-content/uploads/2025/04/20250422-182754.png 480w, https://macshuo.com/wp-content/uploads/2025/04/20250422-182754-300x300.png 300w, https://macshuo.com/wp-content/uploads/2025/04/20250422-182754-150x150.png 150w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure>
+
+
+
+<p>没想到这个小产品慢慢有了生命，形成了社区，小程序的能力可以承载图文、音频、视频和订阅等很多功能，于是 demo 转正，我们在 2023 年 10 月 28 日正式发布了墨问便签 1.0。</p>
+
+
+
+<p>时至今日，墨问便签早就跳出了便签的范畴，有了 AI 和社区属性，未来我们肯定会做 Web 版本。所以我想给它一个独立的名字，就叫墨问好了。事实上墨友们有很长一段时间都是这么叫的。</p>
+
+
+
+<p>二爷说，批准。这等同于 TheFacebook 改名为 Facebook。</p>
+
+
+
+<p>毕竟，<br>Google 原名是 BackRub<br>Apple Computer 改成了 Apple<br>TheFacebook 改名为 Facebook</p>
+
+
+
+<p>墨问便签改为墨问，一切就算是对了。</p>
+
+
+
+<p>这么地吧，</p>
+
+
+
+<p>撒个花[庆祝][庆祝][庆祝]</p>
+
+
+
+<p><a href="https://note.mowen.cn/note/detail?noteUuid=jbJv5KSkoUPQfmFWVhY1o">https://note.mowen.cn/note/detail?noteUuid=jbJv5KSkoUPQfmFWVhY1o</a></p>
+
+
+
+<p>2025年4月22日</p>
+			</div><!-- .entry-content -->
+	
+		<footer class="entry-meta">
+					
+					
+		<p class="date-link"><a href="https://macshuo.com/?p=1969" title="Permalink to 墨问便签正成为历史" rel="bookmark" class="permalink"><span class="month">4月</span><span class="sep">&middot;</span><span class="day">22</span></a></p>
+
+			</footer><!-- #entry-meta -->
+	</article><!-- #post-## -->
+
+				
+					
+<article id="post-1967" class="post-1967 post type-post status-publish format-standard hentry category-uncategorized">
+	
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="https://macshuo.com/?p=1967" rel="bookmark">使用海外产品（包括 AI）的时候，发现个秘密</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Posted by <span class="author vcard"><a class="url fn n" href="https://macshuo.com/?author=1" title="View all posts by MacTalk" rel="author">MacTalk</a></span></span>		</div><!-- .entry-meta -->
+		
+				<p class="comments-link"><a href="https://macshuo.com/?p=1967#respond"><span class="no-reply">0</span></a></p>
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		
+<p>这个发现叫做慢操作</p>
+
+
+
+<p>终于把 2025 墨问 AI 内参专栏的第一季交付完了。为了写这个第一季，我们下了挺多功夫。包括把自己的 App Store 切换美区，下载了很多海外的 AI 产品。包括购买了推特的会员，也就是 X 的蓝V，并且重启了推特创作，在上面关注了不少有趣的 AI 行业的人，自己也写了不少内容。<br><br>在使用这些软件的过程中，我发现了一个挺有意思的现象。<br><br>国外的软件好像没有那么着急，没有像中国的快递那样必须要求立等可取，我觉得这可能反映了不同区域人们的生活态度。比如，我注册推特的蓝 V，花了钱之后大概用了 3 天的时间才把这个蓝 V 的标给我挂上，系统提示就是在审核，我也不知道在审核什么。<br><br>如果是在国内做产品的话，我花了几百块钱买了你一个产品，你不能让我立刻用，不能让我立刻有那个标识。这怎么可以呢？我这外卖 20 分钟都到了，你这儿买一个产品居然要三天才能给我挂上蓝 V，简直难以想象，这产品基本上就不能要了。<br><br>包括前一阵儿。我们使用这个新兴的 AI 浏览器 Dia，它采用了一种邀请码的方式。这个邀请码并不是官方来发放的，它是一种缓慢传播的方式。比如说，我从小盖那儿拿到了一个邀请码，我就可以使用这个产品，我也有了 10 个邀请码。我可以用这 10 个邀请码邀请别人，让别人去试用。<br><br>小盖的邀请码是哪儿来的？因为他特别想用这个产品，就去推特上找一个老外要的。大概就是这样一个传播路径。路径不复杂，传播得也不快，后续它还做了一些收缩，新的用户可能只能有一两个邀请码。因为 Dia 这个浏览器，目前还是免费的，要耗费很多 AI 算力，估计还不能大规模的放开使用。<br><br>从某一个侧面也体现了，人家不怕慢，也不怕等。<br><br>上午在苹果这里买一个充值卡也是，咱们在国内买任何一个产品的充值卡，是不是得立刻到账？立刻，马上。我买完之后，就能拿到这个虚拟信息卡，立刻吧卡里的额度充到我的系统里去。<br><br>你买一个美区的礼品卡，100 美元，他会给你发个邮件，说，你等我一个小时，我会给你发的。可能一个小时，也可能两个小时，人家才会把这个卡发到你的邮箱里面，特别有意思。<br><br>这些产品为什么会有这么有底气呢？我想了俩原因：<br><br>第一个就是海外的人节奏没有中国这么快，没有中国这么立等可取。<br><br>另外一个原因就是他们觉得，我相信我的产品好，好产品值得你等。<br><br>这也是一个不同的产品理念吧，能给我一些启发。</p>
+
+
+
+<p><audio src="https://priv-sdn-001.mowen.cn/mo/file/meta/30/37/32/1910528646200557569.mp3?Expires=1744426900&amp;OSSAccessKeyId=LTAI5tE16jzdfWCPVBmyB5Nn&amp;Signature=HdzOU%2BA8cgdKX%2FmS8JqxUpNZOtE%3D&amp;response-expires=Sat%2C%2012%20Apr%202025%2003%3A01%3A40%20GMT"></audio></p>
+			</div><!-- .entry-content -->
+	
+		<footer class="entry-meta">
+					
+					
+		<p class="date-link"><a href="https://macshuo.com/?p=1967" title="Permalink to 使用海外产品（包括 AI）的时候，发现个秘密" rel="bookmark" class="permalink"><span class="month">4月</span><span class="sep">&middot;</span><span class="day">11</span></a></p>
+
+			</footer><!-- #entry-meta -->
+	</article><!-- #post-## -->
+
+				
+					
+<article id="post-1958" class="post-1958 post type-post status-publish format-standard hentry category-uncategorized">
+	
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="https://macshuo.com/?p=1958" rel="bookmark">如何理解段永平这周的股市操作</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Posted by <span class="author vcard"><a class="url fn n" href="https://macshuo.com/?author=1" title="View all posts by MacTalk" rel="author">MacTalk</a></span></span>		</div><!-- .entry-meta -->
+		
+				<p class="comments-link"><a href="https://macshuo.com/?p=1958#respond"><span class="no-reply">0</span></a></p>
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		
+<p>前几天我看到段在雪球上说：</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>卖了点苹果以及其他的 put。懂王威武，感觉起码要折腾一阵子，卖点 put 来回一起折腾也许是个好玩的游戏。还是老话，千万别用 ma­r­g­in。如果 put 进来的价格从 10 年后看回来是便宜的价格，那这个投资就值得做，长短皆宜。</p>
+</blockquote>
+
+
+
+<p>//段永平这段话是什么意思？我不是很清楚，但咱可以问 Gimini 2.5 Pro，回复如下：</p>
+
+
+
+<p><strong>Gimini 2.5 Pro</strong>：这段话是段永平在分享他对于市场波动时期的一种投资策略和理念，主要围绕着<strong>卖出看跌期权（Selling Put Options）</strong>展开。我们可以分点来理解：</p>
+
+
+
+<p><strong>1、“卖了点苹果以及其他的 put”</strong>:</p>
+
+
+
+<p><strong>核心操作</strong>: 他卖出了（Sell）一些苹果公司（AAPL）和其他他认为不错的公司的看跌期权（Put Options）。</p>
+
+
+
+<p><strong>2、卖出看跌期权意味着什么</strong>: 卖出看跌期权的投资者（在这里是段永平）获得一笔权利金（Premium）。作为交换，他承担了一项义务：如果该期权的买方在到期日或之前选择行权（Exercise），那么卖方（段永平）必须按照约定的行权价（Strike Price）从买方手中买入对应数量的股票。</p>
+
+
+
+<p><strong>3、卖方的期望</strong>: 通常，卖出看跌期权的人期望股价在期权到期时高于或等于行权价，这样期权就不会被行权（或者价值很低），他就能赚取全部的权利金。</p>
+
+
+
+<p>4、<strong>“懂王威武，感觉起码要折腾一阵子”</strong>:</p>
+
+
+
+<p><strong>背景/动机</strong>: “懂王”通常指美国前总统特朗普（Donald Trump）。这句话暗示他认为（当时）由于政治或其他宏观因素（可能与特朗普有关），市场将经历一段波动或不确定性（“折腾”）。</p>
+
+
+
+<p><strong>策略联系</strong>: 在市场波动加剧时，期权的隐含波动率（Implied Volatility）通常会上升，这使得期权的权利金（Premium）更高。因此，在预期市场会“折腾”的时候卖出期权，可以收到更丰厚的权利金。</p>
+
+
+
+<p><strong>5、“卖点 put 来回一起折腾也许是个好玩的游戏”</strong>:</p>
+
+
+
+<p><strong>策略描述</strong>: 这表明他可能不仅仅是卖一次，而是在市场波动期间，根据情况反复进行卖出看跌期权的操作（“来回一起折腾”），以此来持续赚取权利金。</p>
+
+
+
+<p><strong>心态</strong>: “好玩的游戏”体现了他对这种策略相对轻松的心态，但也暗示了这需要技巧和对风险的理解。</p>
+
+
+
+<p><strong>6、“还是老话，千万别用 margin”</strong>:</p>
+
+
+
+<p><strong>风险警示</strong>: 这是他一贯强调的重点。Margin（融资，保证金交易）是指向券商借钱来投资。卖出看跌期权（尤其是裸卖，Naked Put Selling）本身就有潜在的较大风险，如果股价大幅下跌，卖方需要用大量资金接盘股票。如果使用了 Margin，一旦市场剧烈波动导致亏损，可能会触发 Margin Call（追加保证金通知），甚至被强制平仓，造成无法挽回的巨大损失。</p>
+
+
+
+<p><strong>原则</strong>: 他强调只用自己<strong>自有</strong>的、<strong>闲置</strong>的资金来进行这类操作，确保即使最坏情况发生（需要以行权价买入股票），自己也完全有能力承担，不会危及财务安全。</p>
+
+
+
+<p><strong>7、“如果 put 进来的价格从 10 年后看回来是便宜的价格，那这个投资就值得做”</strong>:</p>
+
+
+
+<p><strong>核心理念</strong>: 这揭示了他卖 Put 的深层逻辑，与他的价值投资理念一脉相承。他卖 Put 的公司（如苹果）是他本身就愿意长期持有的好公司。他设定的行权价（Strike Price）是他认为<strong>即使被迫接盘，买入股票的价格也是合理的，甚至是便宜的</strong>（“put 进来的价格&#8230;是便宜的价格”）。</p>
+
+
+
+<p><strong>价值判断</strong>: 他不是单纯为了赚取权利金而卖 Put，而是把卖 Put 看作一种<strong>潜在的、以理想价格买入好公司股票</strong>的方式。如果股价没跌破行权价，他就赚取权利金；如果股价跌破行权价，他被迫接盘，那也相当于以他事先认可的“便宜价格”买入了心仪的股票。这个价格需要经得起长期（“10 年后看回来”）的考验。</p>
+
+
+
+<p><strong>策略灵活性</strong>: 这个策略既有短期收益（赚取权利金），也有长期目标（以好价格买入好公司股票）。因此，无论从短期操作还是长期投资的角度看，他都认为这是合适的。</p>
+
+
+
+<p><strong>总结一下</strong>:</p>
+
+
+
+<p>段永平的这段话描述了一种结合了期权交易和价值投资的策略：</p>
+
+
+
+<p>在预期市场波动时，通过<strong>卖出看跌期权</strong>来赚取权利金。</p>
+
+
+
+<p>选择的目标公司是他<strong>长期看好并愿意持有</strong>的公司。</p>
+
+
+
+<p>设定的行权价是他认为<strong>即使接盘也合算</strong>的买入价格。</p>
+
+
+
+<p><strong>严格禁止使用杠杆（Margin）</strong>，用自有现金覆盖潜在的买入义务，控制风险。</p>
+
+
+
+<p>这种策略下，如果股价不下跌，他赚取权利金；如果股价下跌并被行权，他则以预设的理想价格买入了看好的公司股票。这使得该策略无论短期（收租）还是长期（建仓）都有其合理性。</p>
+
+
+
+<p>这是一种相对保守和基于基本面价值判断的期权策略，核心在于对公司价值的深刻理解和严格的风险控制。</p>
+
+
+
+<p>——————</p>
+
+
+
+<p>这个回复远好于其他 AI。</p>
+
+
+
+<p>你看，大佬这么简短的一段话，咱们可以通过 AI 学习这么多知识，不得不说，AI 是必选项，无论你想学习，还是工作。毕竟老段可懒得给你讲这些基础的名词和逻辑。</p>
+
+
+
+<p>2025 年 4 月 10 日</p>
+			</div><!-- .entry-content -->
+	
+		<footer class="entry-meta">
+					
+					
+		<p class="date-link"><a href="https://macshuo.com/?p=1958" title="Permalink to 如何理解段永平这周的股市操作" rel="bookmark" class="permalink"><span class="month">4月</span><span class="sep">&middot;</span><span class="day">10</span></a></p>
+
+			</footer><!-- #entry-meta -->
+	</article><!-- #post-## -->
+
+				
+					
+<article id="post-1948" class="post-1948 post type-post status-publish format-standard hentry category-uncategorized">
+	
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="https://macshuo.com/?p=1948" rel="bookmark">字节跳动发布了一款 AI IDE：Trae</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Posted by <span class="author vcard"><a class="url fn n" href="https://macshuo.com/?author=1" title="View all posts by MacTalk" rel="author">MacTalk</a></span></span>		</div><!-- .entry-meta -->
+		
+				<p class="comments-link"><a href="https://macshuo.com/?p=1948#respond"><span class="no-reply">0</span></a></p>
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		
+<p>昨天，字节跳动发布了类似 Cursor 的 AI Native IDE：Trae。Trae 目前只有 MacOS 版本，并且默认集成了 Claude-3.5-Sonnet 和 GPT-4o 两款当前行业内最好的大模型。功能方面，Trae 和 Cursor、Windsurf 等产品几乎一样，但不同的是，Trae 对中文用户做了适配，并且免费。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://macshuo.com/wp-content/uploads/2025/01/65166486354f3c6a60aa82907881bb6b.png"><img decoding="async" loading="lazy" width="1024" height="729" src="https://macshuo.com/wp-content/uploads/2025/01/65166486354f3c6a60aa82907881bb6b-1024x729.png" alt="" class="wp-image-1952" srcset="https://macshuo.com/wp-content/uploads/2025/01/65166486354f3c6a60aa82907881bb6b-1024x729.png 1024w, https://macshuo.com/wp-content/uploads/2025/01/65166486354f3c6a60aa82907881bb6b-300x214.png 300w, https://macshuo.com/wp-content/uploads/2025/01/65166486354f3c6a60aa82907881bb6b-768x547.png 768w, https://macshuo.com/wp-content/uploads/2025/01/65166486354f3c6a60aa82907881bb6b-1536x1094.png 1536w, https://macshuo.com/wp-content/uploads/2025/01/65166486354f3c6a60aa82907881bb6b-2048x1459.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>字节跳动去年一直在国内推广豆包 MarsCode，并且市场占有率不错。为什么他们要重新推出一个全新的品牌呢？</p>
+
+
+
+<p>我的推断是：第一，字节跳动意识到当前 AI IDE 的战局中，IDE 插件的方式已经全然落后。Cursor 才是新一代的产品。第二，IDE 不会出现中美分区的情况，国内的产品也比必须参与到全世界的竞争中。因为工程师们会选择全世界最好的产品。</p>
+
+
+
+<p>过去一年中，绝大多数大厂的 AI IDE 产品都在沿着 GitHub Copilot 的路线前进，它们通过 IDE 插件的方式实现代码智能补全、代码问答等能力。这种方式不能说错，它的优势是工程师能够以较低的成本使用 AI。<br>但后来随着 Cursor 的爆火，用户的心智已经发生了变化，大家见识了什么才是更好的 AI 原生 IDE。受限于插件的能力限制，GitHub Copilot 等同类产品的体验和 Cursor 相比，已经有了代际差。</p>
+
+
+
+<p>字节推出Trae，这一步棋走得绝对正确。</p>
+
+
+
+<p>上周，我曾经统计过当前阶段押注 AI 编程的创业公司情况。粗算下来，至少有 16 家创业公司，他们一起从资本市场拿到了 30 多亿美元的融资，像极了当年的百团大战。可以确定，未来两年内，这个赛道肯定会迎来非常激烈的竞争，直到很多公司弹尽粮绝，或者被收购。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://macshuo.com/wp-content/uploads/2025/01/image.png"><img decoding="async" loading="lazy" width="1024" height="619" src="https://macshuo.com/wp-content/uploads/2025/01/image-1024x619.png" alt="" class="wp-image-1949" srcset="https://macshuo.com/wp-content/uploads/2025/01/image-1024x619.png 1024w, https://macshuo.com/wp-content/uploads/2025/01/image-300x181.png 300w, https://macshuo.com/wp-content/uploads/2025/01/image-768x464.png 768w, https://macshuo.com/wp-content/uploads/2025/01/image.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>从 VIM、Emacs，到 Eclipse、JetBrains，再到 VSCode。过去三十年时间，大概出现了这三代 IDE 产品。现在我能感觉到，再新一代的产品也就快要来了。毫无疑问，它一定是 AI Native 的。</p>
+
+
+
+<p>变化也不只是在 IDE 领域。</p>
+
+
+
+<p>企业 IM 领域，以我熟悉的钉钉为例，它几乎已经把大模型渗透到了每个角落。从文档到会议，从 IM 消息到搜索，都能见到 AI 的影子。毫无疑问，AI 就是新的生产力。特别是钉钉年底发布的 AI 助理，让我充分体会到了数字劳动力时代的到来。</p>
+
+
+
+<p>搜索领域，无论是ChatGPT 这类智能对话产品，还是 Perplexity 这类新一代的 AI 搜索，我们能看到的趋势是，新一代的产品正呼之欲出。搜索领域的游戏规则很有可能在未来几年内被改变。</p>
+
+
+
+<p>浏览器、心理咨询、图片生成、视频制作、律师咨询、语言学习等等领域也有类似的趋势。技术在变化，变化就会酝酿新的机会。</p>
+
+
+
+<p>我不是一个典型的新技术狂热爱好者。过去很长时间，对于媒体动不动就喊出的 AI 颠覆、AI 炸裂的口号，我选择审慎待之，让子弹再飞一会，飞一会就容易看得更清楚。现在，此刻，我觉得时机到了，我们所有人，都必须思考怎么以 AI 为核心，重新设计自己的产品。</p>
+
+
+
+<p>是的，我们已经无须再争论大模型是不是会像元宇宙那样虚晃一枪。不管是从场景，头部公司的投入、VC 的下注情况来看，AI 是 100% 确定的方向。</p>
+
+
+
+<p>那么接下来大模型技术会呈现怎样的发展呢？不清楚。带着疑惑，跳到一个更长的历史周期中看，至少能让我们思考问题角度更全面些。过去几年，我们对大模型的类比思考，大致有两种。</p>
+
+
+
+<p>第一种，把大模型类比为第一次工业革命中的蒸汽机。作为新的生产力，它们都需要嵌入到具体的场景之中才能发挥价值。就像当年蒸汽机被应用到采矿、纺织、冶铁工厂，大模型同样也需要嵌入到各种各样的新旧系统中。</p>
+
+
+
+<p>蒸汽机应用到千行百业的过程，也是它降低成本、提高性能、缩小体积的过程。这一点今年我们已经充分感知到，模型的调用成本已经比年初时至少降低了十倍，并且，模型也变得越来越聪明，能力越来越丰富（比如多模态的发展）。</p>
+
+
+
+<p>第二种，把大模型类比为我们刚刚经历过的移动互联网浪潮。无论是刚刚提到的工业革命，还是 PC 互联网、移动互联网，这些新技术的直接结果都是推动了 GDP 的快速增长。</p>
+
+
+
+<p>远的不说，最近这批移动互联网新贵，字节跳动、拼多多、美团、滴滴等公司，书写了多少的创富神话，我们应该都还记得。</p>
+
+
+
+<p>经济发展是由科学技术推动的。这一点毋庸置疑。</p>
+
+
+
+<p>所以，看到轰轰烈烈的大模型技术，我们确实应该兴奋。只有在变化的年代，这个通道才会被充分打开，甚至是再次打开。</p>
+
+
+
+<p>前段时间，和产品经理二爷邱岳聊创业，他说现在我们很有必要把目光放到海外，放到硅谷。当然，这并不代表说我们一定要做一个海外的产品，而是说我们要关注海外市场的变化，了解到新的潮流趋势是什么。因为国内资本市场很冷，我们能看到的新东西越来越有限。<br></p>
+
+
+
+<p>确实，国内外之间存在信息差。在一线实践的创业者和外围观看的人之间也存在信息差。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://macshuo.com/wp-content/uploads/2025/01/834ab70a5355ab454746f4775353c243-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://macshuo.com/wp-content/uploads/2025/01/834ab70a5355ab454746f4775353c243-1024x683.jpg" alt="" class="wp-image-1950" srcset="https://macshuo.com/wp-content/uploads/2025/01/834ab70a5355ab454746f4775353c243-1024x683.jpg 1024w, https://macshuo.com/wp-content/uploads/2025/01/834ab70a5355ab454746f4775353c243-300x200.jpg 300w, https://macshuo.com/wp-content/uploads/2025/01/834ab70a5355ab454746f4775353c243-768x512.jpg 768w, https://macshuo.com/wp-content/uploads/2025/01/834ab70a5355ab454746f4775353c243-1536x1024.jpg 1536w, https://macshuo.com/wp-content/uploads/2025/01/834ab70a5355ab454746f4775353c243-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>墨友体验：</p>
+
+
+
+<p><a href="https://note.mowen.cn/note/detail?noteUuid=h6Lvj7q8XyZfjhhEABhKF">https://note.mowen.cn/note/detail?noteUuid=h6Lvj7q8XyZfjhhEABhKF</a></p>
+
+
+
+<p></p>
+
+
+
+<p>2025年1月23日</p>
+			</div><!-- .entry-content -->
+	
+		<footer class="entry-meta">
+					
+					
+		<p class="date-link"><a href="https://macshuo.com/?p=1948" title="Permalink to 字节跳动发布了一款 AI IDE：Trae" rel="bookmark" class="permalink"><span class="month">1月</span><span class="sep">&middot;</span><span class="day">23</span></a></p>
+
+			</footer><!-- #entry-meta -->
+	</article><!-- #post-## -->
+
+				
+					
+<article id="post-1939" class="post-1939 post type-post status-publish format-standard hentry category-uncategorized">
+	
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="https://macshuo.com/?p=1939" rel="bookmark">墨问小程序发布小红书切图笔记功能</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Posted by <span class="author vcard"><a class="url fn n" href="https://macshuo.com/?author=1" title="View all posts by MacTalk" rel="author">MacTalk</a></span></span>		</div><!-- .entry-meta -->
+		
+				<p class="comments-link"><a href="https://macshuo.com/?p=1939#comments">4</a></p>
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		
+<p>如何优雅的发布一条小红书笔记？</p>
+
+
+
+<p><br>小红书的产品逻辑挺有意思的，发图文笔记，只能发 1000 字，更多的内容，就用图片来表达。这个产品策略我猜测早期可能是收 Instagram 影响？不过 ins 是真的成了图片社区，后来有了视频，小红书却形成了独特的笔记形态。<br></p>
+
+
+
+<p>发几百字，剩余的内容用文字图片来表达，这种表达方式就在小红书上流行起来。很多现代人注意力难以长时间集中，看长文会有心理上的抵触，但一张张翻图片，就和翻书、阅读电子书的方式类似，反而有了沉浸感。<br></p>
+
+
+
+<p>后来公众号的图片模式、视频号的图片模式，都开始支持这种阅读体验。这就带来一个刚需，如何把长文自动切成适合在小红书、公众号和视频号等平台展示的文字图片。<br></p>
+
+
+
+<p>精确一点描述就是，如果你在小红书创作和运营，或使用公众号和视频号的图片模式，需要把一篇长文自动切成大概 3 X 4 大小的图片，同时实现智能排版和优雅展示文字。<br></p>
+
+
+
+<p>我调研了一下用户的使用情况，有用记事本切图的，有用网页切的，也有用专门的图片工具生成花里胡哨的图。真没有合适的，而这个需求，不仅切合创作者工具的属性，而且我们自己也要用，我们也在做小红书和公众号、视频号。那就自己做一个放到墨问里不就很香吗？<br><br>于是我们新增了一个小红书笔记的笔记类型，创建这个笔记的作用主要是长文智能切图。<br>长按创建笔记按钮，滑动选中小红书Pro，进入创作页面。</p>
+
+
+
+<p><br>你可以为小红书笔记设置封面、加黑、加荧光笔，设置图片样式（一共十种），然后点击生成多图，唰，见证奇迹的时刻：</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://macshuo.com/wp-content/uploads/2024/12/1.jpg"><img decoding="async" loading="lazy" width="768" height="1024" data-id="1940"  src="https://macshuo.com/wp-content/uploads/2024/12/1-768x1024.jpg" alt="" class="wp-image-1940" srcset="https://macshuo.com/wp-content/uploads/2024/12/1-768x1024.jpg 768w, https://macshuo.com/wp-content/uploads/2024/12/1-225x300.jpg 225w, https://macshuo.com/wp-content/uploads/2024/12/1-1152x1536.jpg 1152w, https://macshuo.com/wp-content/uploads/2024/12/1.jpg 1500w" sizes="(max-width: 768px) 100vw, 768px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://macshuo.com/wp-content/uploads/2024/12/2.jpg"><img decoding="async" loading="lazy" width="768" height="1024" data-id="1941"  src="https://macshuo.com/wp-content/uploads/2024/12/2-768x1024.jpg" alt="" class="wp-image-1941" srcset="https://macshuo.com/wp-content/uploads/2024/12/2-768x1024.jpg 768w, https://macshuo.com/wp-content/uploads/2024/12/2-225x300.jpg 225w, https://macshuo.com/wp-content/uploads/2024/12/2-1152x1536.jpg 1152w, https://macshuo.com/wp-content/uploads/2024/12/2.jpg 1500w" sizes="(max-width: 768px) 100vw, 768px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://macshuo.com/wp-content/uploads/2024/12/3.jpg"><img decoding="async" loading="lazy" width="768" height="1024" data-id="1942"  src="https://macshuo.com/wp-content/uploads/2024/12/3-768x1024.jpg" alt="" class="wp-image-1942" srcset="https://macshuo.com/wp-content/uploads/2024/12/3-768x1024.jpg 768w, https://macshuo.com/wp-content/uploads/2024/12/3-225x300.jpg 225w, https://macshuo.com/wp-content/uploads/2024/12/3-1152x1536.jpg 1152w, https://macshuo.com/wp-content/uploads/2024/12/3.jpg 1500w" sizes="(max-width: 768px) 100vw, 768px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://macshuo.com/wp-content/uploads/2024/12/4.jpg"><img decoding="async" loading="lazy" width="1500" height="2000" data-id="1943"  src="https://macshuo.com/wp-content/uploads/2024/12/4-768x1024.jpg" alt="" class="wp-image-1943" srcset="https://macshuo.com/wp-content/uploads/2024/12/4-768x1024.jpg 768w, https://macshuo.com/wp-content/uploads/2024/12/4-225x300.jpg 225w, https://macshuo.com/wp-content/uploads/2024/12/4-1152x1536.jpg 1152w, https://macshuo.com/wp-content/uploads/2024/12/4.jpg 1500w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></figure>
+</figure>
+
+
+
+<p>如果你也在做小红书、公众号、视频号图文模式，可以试试这个功能。</p>
+
+
+
+<p></p>
+
+
+
+<p>后续功能敬请期待：）</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>2024年12月12日13:30:52</p>
+			</div><!-- .entry-content -->
+	
+		<footer class="entry-meta">
+					
+					
+		<p class="date-link"><a href="https://macshuo.com/?p=1939" title="Permalink to 墨问小程序发布小红书切图笔记功能" rel="bookmark" class="permalink"><span class="month">12月</span><span class="sep">&middot;</span><span class="day">12</span></a></p>
+
+			</footer><!-- #entry-meta -->
+	</article><!-- #post-## -->
+
+				
+					
+<article id="post-1931" class="post-1931 post type-post status-publish format-standard hentry category-uncategorized">
+	
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="https://macshuo.com/?p=1931" rel="bookmark">4 月以来墨问便签小程序的发布节奏</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Posted by <span class="author vcard"><a class="url fn n" href="https://macshuo.com/?author=1" title="View all posts by MacTalk" rel="author">MacTalk</a></span></span>		</div><!-- .entry-meta -->
+		
+				<p class="comments-link"><a href="https://macshuo.com/?p=1931#respond"><span class="no-reply">0</span></a></p>
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		
+<p>四月以来墨问发布的新功能：</p>
+
+
+
+<p>置顶笔记折叠、标签云、特别关注、个人主页改版、画廊、播客 shownotes、分享图增强、公众号互通、AI 听读、支持微信表情、AI 语音笔记、长按试试、在小程序里打开墨问笔记的超链接、引用样式、墨问 Pro 会员、发视频号等。</p>
+
+
+
+<p><strong>8 月新增引用样式、详情页改版、新手势。<br>9 月集中精力开发一个大版本，一步步来。<br>10 月墨问 Pro 版本上线<br>11 月付费专栏预览、发视频号<br>12 增加笔记引用功能……</strong></p>
+
+
+
+<p>最新发布的功能在前：</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://macshuo.com/wp-content/uploads/2024/12/image-1.jpg"><img decoding="async" src="https://macshuo.com/wp-content/uploads/2024/12/image-1.jpg" alt="" class="wp-image-1932"/></a></figure>
+
+
+
+<p></p>
+
+
+
+<p>如果你不知道墨问有什么功能，建议收藏</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>2024年12月9日13:33:13</p>
+			</div><!-- .entry-content -->
+	
+		<footer class="entry-meta">
+					
+					
+		<p class="date-link"><a href="https://macshuo.com/?p=1931" title="Permalink to 4 月以来墨问便签小程序的发布节奏" rel="bookmark" class="permalink"><span class="month">12月</span><span class="sep">&middot;</span><span class="day">09</span></a></p>
+
+			</footer><!-- #entry-meta -->
+	</article><!-- #post-## -->
+
+				
+					<nav id="nav-below">
+		<h1 class="assistive-text section-heading">Post navigation</h1>
+
+	
+				<div class="nav-previous"><a href="https://macshuo.com/favicon.ico/?paged=2" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+		
+		
+	
+	</nav><!-- #nav-below -->
+	
+			
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+
+<div id="secondary" class="widget-area" role="complementary">
+	<aside id="block-2" class="widget widget_block widget_search"><form role="search" method="get" action="https://macshuo.com/" class="wp-block-search__button-outside wp-block-search__icon-button wp-block-search"><label for="wp-block-search__input-3" class="wp-block-search__label screen-reader-text">搜索</label><div class="wp-block-search__inside-wrapper " ><input type="search" id="wp-block-search__input-3" class="wp-block-search__input" name="s" value="" placeholder=""  required /><button type="submit" class="wp-block-search__button has-icon wp-element-button"  aria-label="搜索"><svg class="search-icon" viewBox="0 0 24 24" width="24" height="24">
+					<path d="M13.5 6C10.5 6 8 8.5 8 11.5c0 1.1.3 2.1.9 3l-3.4 3 1 1.1 3.4-2.9c1 .9 2.2 1.4 3.6 1.4 3 0 5.5-2.5 5.5-5.5C19 8.5 16.5 6 13.5 6zm0 9.5c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z"></path>
+				</svg></button></div></form></aside><aside id="block-3" class="widget widget_block widget_media_image">
+<figure class="wp-block-image"><img decoding="async" src="https://macshuo.com/wp-content/uploads/2022/04/97548679-F758-41F2-A1C7-B8613DABE995.jpeg" alt="" class="wp-image-247"/></figure>
+</aside>
+		<aside id="recent-posts-2" class="widget widget_recent_entries">
+		<h1 class="widget-title">MacTalk</h1>
+		<ul>
+											<li>
+					<a href="https://macshuo.com/?p=1969">墨问便签正成为历史</a>
+									</li>
+											<li>
+					<a href="https://macshuo.com/?p=1967">使用海外产品（包括 AI）的时候，发现个秘密</a>
+									</li>
+											<li>
+					<a href="https://macshuo.com/?p=1958">如何理解段永平这周的股市操作</a>
+									</li>
+											<li>
+					<a href="https://macshuo.com/?p=1948">字节跳动发布了一款 AI IDE：Trae</a>
+									</li>
+											<li>
+					<a href="https://macshuo.com/?p=1939">墨问小程序发布小红书切图笔记功能</a>
+									</li>
+											<li>
+					<a href="https://macshuo.com/?p=1931">4 月以来墨问便签小程序的发布节奏</a>
+									</li>
+											<li>
+					<a href="https://macshuo.com/?p=1928">选择从众，还是走小众路线</a>
+									</li>
+											<li>
+					<a href="https://macshuo.com/?p=1922">创业两年半，墨问推出 Pro 功能</a>
+									</li>
+											<li>
+					<a href="https://macshuo.com/?p=1918">关于小程序，2017 年的时候，我还写过这么一段话</a>
+									</li>
+											<li>
+					<a href="https://macshuo.com/?p=1912">村上春树的爱好 &#8211; 这个时代该读读村上系列</a>
+									</li>
+					</ul>
+
+		</aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><h1 class="widget-title">标签</h1><div class="tagcloud"><a href="https://macshuo.com/?tag=airdrop" class="tag-cloud-link tag-link-24 tag-link-position-1" style="font-size: 9.8064516129032pt;" aria-label="AirDrop (3个项目)">AirDrop</a>
+<a href="https://macshuo.com/?tag=alfred" class="tag-cloud-link tag-link-45 tag-link-position-2" style="font-size: 15.075268817204pt;" aria-label="Alfred (8个项目)">Alfred</a>
+<a href="https://macshuo.com/?tag=app" class="tag-cloud-link tag-link-2 tag-link-position-3" style="font-size: 22pt;" aria-label="App (25个项目)">App</a>
+<a href="https://macshuo.com/?tag=apple" class="tag-cloud-link tag-link-55 tag-link-position-4" style="font-size: 8pt;" aria-label="Apple (2个项目)">Apple</a>
+<a href="https://macshuo.com/?tag=applescript" class="tag-cloud-link tag-link-63 tag-link-position-5" style="font-size: 11.311827956989pt;" aria-label="Applescript (4个项目)">Applescript</a>
+<a href="https://macshuo.com/?tag=automator" class="tag-cloud-link tag-link-64 tag-link-position-6" style="font-size: 8pt;" aria-label="Automator (2个项目)">Automator</a>
+<a href="https://macshuo.com/?tag=books" class="tag-cloud-link tag-link-7 tag-link-position-7" style="font-size: 13.569892473118pt;" aria-label="Books (6个项目)">Books</a>
+<a href="https://macshuo.com/?tag=dns" class="tag-cloud-link tag-link-83 tag-link-position-8" style="font-size: 8pt;" aria-label="dns (2个项目)">dns</a>
+<a href="https://macshuo.com/?tag=dock" class="tag-cloud-link tag-link-20 tag-link-position-9" style="font-size: 11.311827956989pt;" aria-label="Dock (4个项目)">Dock</a>
+<a href="https://macshuo.com/?tag=finder" class="tag-cloud-link tag-link-29 tag-link-position-10" style="font-size: 15.827956989247pt;" aria-label="Finder (9个项目)">Finder</a>
+<a href="https://macshuo.com/?tag=findyyets" class="tag-cloud-link tag-link-46 tag-link-position-11" style="font-size: 8pt;" aria-label="FindYYeTs (2个项目)">FindYYeTs</a>
+<a href="https://macshuo.com/?tag=iphoto" class="tag-cloud-link tag-link-49 tag-link-position-12" style="font-size: 8pt;" aria-label="iPhoto (2个项目)">iPhoto</a>
+<a href="https://macshuo.com/?tag=mac" class="tag-cloud-link tag-link-26 tag-link-position-13" style="font-size: 17.032258064516pt;" aria-label="Mac (11个项目)">Mac</a>
+<a href="https://macshuo.com/?tag=machis" class="tag-cloud-link tag-link-136 tag-link-position-14" style="font-size: 9.8064516129032pt;" aria-label="machis (3个项目)">machis</a>
+<a href="https://macshuo.com/?tag=mac%e6%bc%94%e5%8c%96%e5%8f%b2" class="tag-cloud-link tag-link-135 tag-link-position-15" style="font-size: 9.8064516129032pt;" aria-label="Mac演化史 (3个项目)">Mac演化史</a>
+<a href="https://macshuo.com/?tag=mailbox" class="tag-cloud-link tag-link-39 tag-link-position-16" style="font-size: 8pt;" aria-label="MailBox (2个项目)">MailBox</a>
+<a href="https://macshuo.com/?tag=mavericks" class="tag-cloud-link tag-link-140 tag-link-position-17" style="font-size: 9.8064516129032pt;" aria-label="Mavericks (3个项目)">Mavericks</a>
+<a href="https://macshuo.com/?tag=mdfind" class="tag-cloud-link tag-link-51 tag-link-position-18" style="font-size: 8pt;" aria-label="mdfind (2个项目)">mdfind</a>
+<a href="https://macshuo.com/?tag=mdls" class="tag-cloud-link tag-link-87 tag-link-position-19" style="font-size: 8pt;" aria-label="mdls (2个项目)">mdls</a>
+<a href="https://macshuo.com/?tag=objective-c" class="tag-cloud-link tag-link-3 tag-link-position-20" style="font-size: 16.430107526882pt;" aria-label="Objective-C (10个项目)">Objective-C</a>
+<a href="https://macshuo.com/?tag=open" class="tag-cloud-link tag-link-65 tag-link-position-21" style="font-size: 8pt;" aria-label="open (2个项目)">open</a>
+<a href="https://macshuo.com/?tag=pixelmator" class="tag-cloud-link tag-link-91 tag-link-position-22" style="font-size: 8pt;" aria-label="Pixelmator (2个项目)">Pixelmator</a>
+<a href="https://macshuo.com/?tag=safari" class="tag-cloud-link tag-link-18 tag-link-position-23" style="font-size: 12.516129032258pt;" aria-label="Safari (5个项目)">Safari</a>
+<a href="https://macshuo.com/?tag=space" class="tag-cloud-link tag-link-76 tag-link-position-24" style="font-size: 8pt;" aria-label="Space (2个项目)">Space</a>
+<a href="https://macshuo.com/?tag=spotlight" class="tag-cloud-link tag-link-5 tag-link-position-25" style="font-size: 12.516129032258pt;" aria-label="Spotlight (5个项目)">Spotlight</a>
+<a href="https://macshuo.com/?tag=time-machine" class="tag-cloud-link tag-link-47 tag-link-position-26" style="font-size: 8pt;" aria-label="Time Machine (2个项目)">Time Machine</a>
+<a href="https://macshuo.com/?tag=vim" class="tag-cloud-link tag-link-138 tag-link-position-27" style="font-size: 12.516129032258pt;" aria-label="Vim (5个项目)">Vim</a>
+<a href="https://macshuo.com/?tag=vpn" class="tag-cloud-link tag-link-82 tag-link-position-28" style="font-size: 9.8064516129032pt;" aria-label="vpn (3个项目)">vpn</a>
+<a href="https://macshuo.com/?tag=wwdc" class="tag-cloud-link tag-link-19 tag-link-position-29" style="font-size: 8pt;" aria-label="WWDC (2个项目)">WWDC</a>
+<a href="https://macshuo.com/?tag=%e4%ba%a7%e5%93%81%e8%ae%be%e8%ae%a1" class="tag-cloud-link tag-link-151 tag-link-position-30" style="font-size: 9.8064516129032pt;" aria-label="产品设计 (3个项目)">产品设计</a>
+<a href="https://macshuo.com/?tag=%e5%88%9b%e4%b8%9a" class="tag-cloud-link tag-link-171 tag-link-position-31" style="font-size: 11.311827956989pt;" aria-label="创业 (4个项目)">创业</a>
+<a href="https://macshuo.com/?tag=%e5%8a%9f%e8%83%bd%e9%94%ae" class="tag-cloud-link tag-link-85 tag-link-position-32" style="font-size: 8pt;" aria-label="功能键 (2个项目)">功能键</a>
+<a href="https://macshuo.com/?tag=%e5%91%bd%e4%bb%a4%e8%a1%8c" class="tag-cloud-link tag-link-41 tag-link-position-33" style="font-size: 11.311827956989pt;" aria-label="命令行 (4个项目)">命令行</a>
+<a href="https://macshuo.com/?tag=%e5%ae%89%e5%85%a8" class="tag-cloud-link tag-link-35 tag-link-position-34" style="font-size: 8pt;" aria-label="安全 (2个项目)">安全</a>
+<a href="https://macshuo.com/?tag=%e5%be%ae%e4%bf%a1%e5%b8%90%e5%8f%b7" class="tag-cloud-link tag-link-8 tag-link-position-35" style="font-size: 11.311827956989pt;" aria-label="微信帐号 (4个项目)">微信帐号</a>
+<a href="https://macshuo.com/?tag=%e5%bf%ab%e6%8d%b7%e9%94%ae" class="tag-cloud-link tag-link-22 tag-link-position-36" style="font-size: 15.075268817204pt;" aria-label="快捷键 (8个项目)">快捷键</a>
+<a href="https://macshuo.com/?tag=%e6%88%aa%e5%b1%8f" class="tag-cloud-link tag-link-57 tag-link-position-37" style="font-size: 8pt;" aria-label="截屏 (2个项目)">截屏</a>
+<a href="https://macshuo.com/?tag=%e6%8a%80%e6%9c%af%e6%88%90%e9%95%bf" class="tag-cloud-link tag-link-14 tag-link-position-38" style="font-size: 8pt;" aria-label="技术成长 (2个项目)">技术成长</a>
+<a href="https://macshuo.com/?tag=%e6%8b%9b%e8%81%98" class="tag-cloud-link tag-link-21 tag-link-position-39" style="font-size: 8pt;" aria-label="招聘 (2个项目)">招聘</a>
+<a href="https://macshuo.com/?tag=%e6%96%87%e6%9c%ac%e7%bc%96%e8%be%91%e5%99%a8" class="tag-cloud-link tag-link-23 tag-link-position-40" style="font-size: 8pt;" aria-label="文本编辑器 (2个项目)">文本编辑器</a>
+<a href="https://macshuo.com/?tag=%e7%a8%8b%e5%ba%8f%e5%91%98" class="tag-cloud-link tag-link-111 tag-link-position-41" style="font-size: 9.8064516129032pt;" aria-label="程序员 (3个项目)">程序员</a>
+<a href="https://macshuo.com/?tag=%e8%a5%bf%e6%b8%b8" class="tag-cloud-link tag-link-77 tag-link-position-42" style="font-size: 11.311827956989pt;" aria-label="西游 (4个项目)">西游</a>
+<a href="https://macshuo.com/?tag=%e9%80%9a%e7%9f%a5" class="tag-cloud-link tag-link-32 tag-link-position-43" style="font-size: 8pt;" aria-label="通知 (2个项目)">通知</a>
+<a href="https://macshuo.com/?tag=%e9%81%97%e5%a4%b1%e7%9a%84%e8%ae%bf%e8%b0%88" class="tag-cloud-link tag-link-17 tag-link-position-44" style="font-size: 9.8064516129032pt;" aria-label="遗失的访谈 (3个项目)">遗失的访谈</a>
+<a href="https://macshuo.com/?tag=%e9%bb%91%e5%ae%a2" class="tag-cloud-link tag-link-67 tag-link-position-45" style="font-size: 12.516129032258pt;" aria-label="黑客 (5个项目)">黑客</a></div>
+</aside><aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">归档</h1>
+			<ul>
+					<li><a href='https://macshuo.com/?m=202504'>2025年4月</a></li>
+	<li><a href='https://macshuo.com/?m=202501'>2025年1月</a></li>
+	<li><a href='https://macshuo.com/?m=202412'>2024年12月</a></li>
+	<li><a href='https://macshuo.com/?m=202410'>2024年10月</a></li>
+	<li><a href='https://macshuo.com/?m=202405'>2024年5月</a></li>
+	<li><a href='https://macshuo.com/?m=202403'>2024年3月</a></li>
+	<li><a href='https://macshuo.com/?m=202306'>2023年6月</a></li>
+	<li><a href='https://macshuo.com/?m=202305'>2023年5月</a></li>
+	<li><a href='https://macshuo.com/?m=202209'>2022年9月</a></li>
+	<li><a href='https://macshuo.com/?m=202207'>2022年7月</a></li>
+	<li><a href='https://macshuo.com/?m=202206'>2022年6月</a></li>
+	<li><a href='https://macshuo.com/?m=202205'>2022年5月</a></li>
+	<li><a href='https://macshuo.com/?m=202204'>2022年4月</a></li>
+	<li><a href='https://macshuo.com/?m=202202'>2022年2月</a></li>
+	<li><a href='https://macshuo.com/?m=202108'>2021年8月</a></li>
+	<li><a href='https://macshuo.com/?m=202105'>2021年5月</a></li>
+	<li><a href='https://macshuo.com/?m=202103'>2021年3月</a></li>
+	<li><a href='https://macshuo.com/?m=202012'>2020年12月</a></li>
+	<li><a href='https://macshuo.com/?m=201912'>2019年12月</a></li>
+	<li><a href='https://macshuo.com/?m=201904'>2019年4月</a></li>
+	<li><a href='https://macshuo.com/?m=201903'>2019年3月</a></li>
+	<li><a href='https://macshuo.com/?m=201807'>2018年7月</a></li>
+	<li><a href='https://macshuo.com/?m=201710'>2017年10月</a></li>
+	<li><a href='https://macshuo.com/?m=201709'>2017年9月</a></li>
+	<li><a href='https://macshuo.com/?m=201704'>2017年4月</a></li>
+	<li><a href='https://macshuo.com/?m=201611'>2016年11月</a></li>
+	<li><a href='https://macshuo.com/?m=201607'>2016年7月</a></li>
+	<li><a href='https://macshuo.com/?m=201602'>2016年2月</a></li>
+	<li><a href='https://macshuo.com/?m=201601'>2016年1月</a></li>
+	<li><a href='https://macshuo.com/?m=201512'>2015年12月</a></li>
+	<li><a href='https://macshuo.com/?m=201509'>2015年9月</a></li>
+	<li><a href='https://macshuo.com/?m=201508'>2015年8月</a></li>
+	<li><a href='https://macshuo.com/?m=201507'>2015年7月</a></li>
+	<li><a href='https://macshuo.com/?m=201504'>2015年4月</a></li>
+	<li><a href='https://macshuo.com/?m=201501'>2015年1月</a></li>
+	<li><a href='https://macshuo.com/?m=201412'>2014年12月</a></li>
+	<li><a href='https://macshuo.com/?m=201411'>2014年11月</a></li>
+	<li><a href='https://macshuo.com/?m=201410'>2014年10月</a></li>
+	<li><a href='https://macshuo.com/?m=201409'>2014年9月</a></li>
+	<li><a href='https://macshuo.com/?m=201408'>2014年8月</a></li>
+	<li><a href='https://macshuo.com/?m=201406'>2014年6月</a></li>
+	<li><a href='https://macshuo.com/?m=201405'>2014年5月</a></li>
+	<li><a href='https://macshuo.com/?m=201404'>2014年4月</a></li>
+	<li><a href='https://macshuo.com/?m=201403'>2014年3月</a></li>
+	<li><a href='https://macshuo.com/?m=201402'>2014年2月</a></li>
+	<li><a href='https://macshuo.com/?m=201401'>2014年1月</a></li>
+	<li><a href='https://macshuo.com/?m=201312'>2013年12月</a></li>
+	<li><a href='https://macshuo.com/?m=201311'>2013年11月</a></li>
+	<li><a href='https://macshuo.com/?m=201310'>2013年10月</a></li>
+	<li><a href='https://macshuo.com/?m=201309'>2013年9月</a></li>
+	<li><a href='https://macshuo.com/?m=201308'>2013年8月</a></li>
+	<li><a href='https://macshuo.com/?m=201307'>2013年7月</a></li>
+	<li><a href='https://macshuo.com/?m=201306'>2013年6月</a></li>
+	<li><a href='https://macshuo.com/?m=201305'>2013年5月</a></li>
+	<li><a href='https://macshuo.com/?m=201304'>2013年4月</a></li>
+	<li><a href='https://macshuo.com/?m=201303'>2013年3月</a></li>
+	<li><a href='https://macshuo.com/?m=201302'>2013年2月</a></li>
+	<li><a href='https://macshuo.com/?m=201301'>2013年1月</a></li>
+	<li><a href='https://macshuo.com/?m=201212'>2012年12月</a></li>
+			</ul>
+
+			</aside><aside id="calendar-3" class="widget widget_calendar"><h1 class="widget-title">回首往事</h1><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
+	<caption>2025年 4月</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="星期一">一</th>
+		<th scope="col" title="星期二">二</th>
+		<th scope="col" title="星期三">三</th>
+		<th scope="col" title="星期四">四</th>
+		<th scope="col" title="星期五">五</th>
+		<th scope="col" title="星期六">六</th>
+		<th scope="col" title="星期日">日</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td colspan="1" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td>
+	</tr>
+	<tr>
+		<td>7</td><td>8</td><td>9</td><td><a href="https://macshuo.com/?m=20250410" aria-label="2025年4月10日 发布的文章">10</a></td><td><a href="https://macshuo.com/?m=20250411" aria-label="2025年4月11日 发布的文章">11</a></td><td>12</td><td>13</td>
+	</tr>
+	<tr>
+		<td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td>
+	</tr>
+	<tr>
+		<td>21</td><td><a href="https://macshuo.com/?m=20250422" aria-label="2025年4月22日 发布的文章">22</a></td><td id="today">23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+	</tr>
+	<tr>
+		<td>28</td><td>29</td><td>30</td>
+		<td class="pad" colspan="4">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table><nav aria-label="上个月及下个月" class="wp-calendar-nav">
+		<span class="wp-calendar-nav-prev"><a href="https://macshuo.com/?m=202501">&laquo; 1月</a></span>
+		<span class="pad">&nbsp;</span>
+		<span class="wp-calendar-nav-next">&nbsp;</span>
+	</nav></div></aside><aside id="block-5" class="widget widget_block">
+<div class="wp-block-group is-layout-flex"></div>
+</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h1 class="widget-title">随便说说</h1><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">MacTalk</span>发表在《<a href="https://macshuo.com/?page_id=2#comment-20719">这个 Blog 是干嘛的？</a>》</li><li class="recentcomments"><span class="comment-author-link"><a href="https://jiangcl.com" class="url" rel="ugc external nofollow">蒙需</a></span>发表在《<a href="https://macshuo.com/?page_id=2#comment-20667">这个 Blog 是干嘛的？</a>》</li><li class="recentcomments"><span class="comment-author-link"><a href="http://jiatcool.com/%e5%80%8d%e9%81%93%e8%80%8c%e8%bf%9b-%e7%b3%bb%e7%bb%9f%e7%ae%a1%e7%90%86%e7%9a%84%e9%ab%98%e9%80%9f%e5%bc%95%e6%93%8e-z-shell/" class="url" rel="ugc external nofollow">倍道而进 &#8211; 系统管理的高速引擎 z shell &#8211; ziat blog</a></span>发表在《<a href="https://macshuo.com/?p=676#comment-20474">终极 Shell</a>》</li><li class="recentcomments"><span class="comment-author-link">MacTalk</span>发表在《<a href="https://macshuo.com/?page_id=2#comment-20466">这个 Blog 是干嘛的？</a>》</li><li class="recentcomments"><span class="comment-author-link">MacTalk</span>发表在《<a href="https://macshuo.com/?p=1922#comment-20465">创业两年半，墨问推出 Pro 功能</a>》</li><li class="recentcomments"><span class="comment-author-link"><a href="http://bulala.net" class="url" rel="ugc external nofollow">joyong</a></span>发表在《<a href="https://macshuo.com/?page_id=2#comment-20368">这个 Blog 是干嘛的？</a>》</li><li class="recentcomments"><span class="comment-author-link">MacTalk</span>发表在《<a href="https://macshuo.com/?p=1939#comment-20055">墨问小程序发布小红书切图笔记功能</a>》</li><li class="recentcomments"><span class="comment-author-link"><a href="https://resumis.com" class="url" rel="ugc external nofollow">resumis</a></span>发表在《<a href="https://macshuo.com/?p=1922#comment-19905">创业两年半，墨问推出 Pro 功能</a>》</li><li class="recentcomments"><span class="comment-author-link"><a href="https://hirelala.com" class="url" rel="ugc external nofollow">海拉拉</a></span>发表在《<a href="https://macshuo.com/?p=1939#comment-19889">墨问小程序发布小红书切图笔记功能</a>》</li><li class="recentcomments"><span class="comment-author-link">MacTalk</span>发表在《<a href="https://macshuo.com/?p=1939#comment-19670">墨问小程序发布小红书切图笔记功能</a>》</li></ul></aside><aside id="meta-2" class="widget widget_meta"><h1 class="widget-title">其他操作</h1>
+		<ul>
+			<li><a href="https://macshuo.com/wp-login.php?action=register">注册</a></li>			<li><a href="https://macshuo.com/wp-login.php">登录</a></li>
+			<li><a href="https://macshuo.com/?feed=rss2">条目feed</a></li>
+			<li><a href="https://macshuo.com/?feed=comments-rss2">评论feed</a></li>
+
+			<li><a href="https://cn.wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</aside></div><!-- #secondary .widget-area -->
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+		
+		<div id="site-info">
+						<a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" rel="generator">Proudly powered by WordPress</a>
+			<span class="sep"> | </span>
+			Theme: Reddle by <a href="http://wordpress.com/themes/reddle/" rel="designer">WordPress.com</a>.		</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<style id='core-block-supports-inline-css' type='text/css'>
+.wp-block-gallery.wp-block-gallery-1{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+</style>
+<script type='text/javascript' src='https://macshuo.com/wp-content/themes/reddle/js/navigation.js?ver=20151026' id='reddle-navigation-js'></script>
+<script src='https://stats.wp.com/e-202517.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:11.0.2',blog:'54511201',post:'0',tz:'8',srv:'macshuo.com'} ]);
+	_stq.push([ 'clickTrackerInit', '54511201', '0' ]);
+</script>
+
+</body>
+</html>

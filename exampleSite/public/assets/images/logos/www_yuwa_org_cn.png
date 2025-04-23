@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+        name="description"
+        content="育娲人口研究智库(简称“育娲人口”)是致力于人口和相关公共政策研究的公益性机构，由梁建章先生、任泽平先生等牵头组建，汇聚了国内一批优秀的人口和经济专家，以推动中国人口研究和公共政策进步为使命，以客观、专业、建设性的态度，聚焦人口形势分析、趋势预测、人口流动、生育成本、生育政策、应对老龄化、人口与资源环境、人口与房地产、养老金融等领域，致力于成为人口研究顶级机构，传递社会责任正能量，为促进中国人口经济健康发展建言献策。"
+    />
+    <meta name="keywords" content="人口预测，中国人口，育娲，育娲人口，人口报告" />
+    <head>
+        <title>育娲人口研究</title>
+        <link rel="shortcut icon" href="./favicon.ico" />
+    <link rel="icon" href="/public/favicon.ico"><link href="/public/css/app.37f85422.css" rel="stylesheet"></head>
+    <body>
+        <div id="app"></div>
+    <script defer src="/public/js/app.53bc8991.js"></script></body>
+</html>
