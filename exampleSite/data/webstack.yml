@@ -1,105 +1,35 @@
-- taxonomy: 导航
-  icon: fa-compass
+- taxonomy: 常用网址
+  icon: fa-user-circle-o
   links:
-  - title: fre123导航
-    url: https://fre123.com/
-    description: FRE123 免费资源共享平台
-    logo: assets/images/logos/7ee22e4c7dfb94b9af447b1041b2af70.vnd.microsoft.icon
-    
-  - title: 果汁排行榜
-    url: http://guozhivip.com/rank/
-    logo: assets/images/logos/gz.png
-    description: 果汁排行榜 - 各类榜单排名大全
-
-  - title: 优设导航
-    url: https://hao.uisdc.com/
-    description: 优设导航官网 - 设计导航 - 国内专业设计师网站导航
-    logo: assets/images/logos/hao_uisdc_com.png
-
-  - title: 网盘资源整合导航
-    url: https://www.wowenda.com/
-    description: 阿里云盘资源搜索-百度网盘搜索引擎 - 网盘之家导航
-    logo: assets/images/logos/www_wowenda_com.png
-
-  - title: 有趣网站之家
-    url: https://youquhome.com/
-    description: 有趣网址之家 - 收藏全球最有趣的网站
-    logo: assets/images/logos/youquhome_com.png
-
-  - title: 考拉新媒体导航
-    url: https://www.kaolamedia.com/hot
-    description: 微博热搜榜|百度热点资讯-新媒体热点话题-考拉新媒体导航
-    logo: assets/images/logos/www_kaolamedia_com.png
-
-  - title: AI导航站
-    url: https://www.ainav.cn/
-    description: AI导航网官网 - 国内外1000+AI工具,发现好用AI,为你导航未来
-    logo: assets/images/logos/www_ainav_cn.png
-
-  - title: AI 工具集
-    url: https://ai-bot.cn/
-    description: AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全
-    logo: assets/images/logos/ai-bot-favicon.png
-
-  - title: 大数据导航
-    url: http://hao.199it.com/
-    description: 大数据导航-大数据工具导航-199IT大数据导航-199IT大数据工具导航-Hao.199it.com
-    logo: assets/images/logos/hao_199it_com.png
-
-  - title: 营销热点日历
-    url: https://www.adguider.com/calendar
-    description: 营销热点日历
-    logo: assets/images/logos/www_adguider_com.png
-
-  - title: 果壳-科普网站
-    url: https://www.guokr.com/
-    description: 果壳 科技有意思
-    logo: assets/images/logos/www_guokr_com.png
-
-  - title: 医学微观
-    url: https://www.mvyxws.cn/
-    description: 医学微视
-    logo: assets/images/logos/www_mvyxws_cn.png
-
-  - title: 走读派-电子书导航
-    url: http://www.zoudupai.com/
-    description: 走读派读书导航 - 读书学习第一站！
-    logo: assets/images/logos/default.png
-
-  - title: 龙轩导航
-    url: http://ilxdh.com/
-    description: 龙轩导航-做个有用的导航
-    logo: assets/images/logos/ilxdh_com.png
-
-  - title: 52破解论坛
-    url: https://www.52pojie.cn/forum.php
-    description: 吾爱破解 - 52pojie.cn
-    logo: assets/images/logos/www_52pojie_cn.png
-
-  - title: 菜鸟工具
-    url: https://www.jyshare.com/
-    description: 菜鸟工具 - 不止于工具
-    logo: assets/images/logos/www_jyshare_com.png
-
-  - title: 在线工具
-    url: https://tool.lu/
-    description: 在线工具 - 你的工具箱
-    logo: assets/images/logos/tool_lu.png
-
-  - title: 在线工具
-    url: http://www.hiencode.com/
-    description: CTF在线工具-CTF工具|CTF编码|CTF密码学|CTF加解密|程序员工具|在线编解码
-    logo: assets/images/logos/www_hiencode_com.png
-
-  - title: wikiHow
-    url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
-    description: wikiHow：你可以信赖的万事指南
-    logo: assets/images/logos/zh_wikihow_com.png
-
-  - title: 图虫
-    url: https://search.chongbuluo.com/
-    description: 虫部落快搜 - 搜索快人一步
-    logo: assets/images/logos/search_chongbuluo_com.png
+  - title: 小报童
+    url: https://xiaobot.net/
+    description: 小报童
+    logo: assets/images/logos/xiaobot_net.png
+  - title: 小宇宙
+    url: https://www.xiaoyuzhoufm.com/
+    description: 小宇宙
+    logo: assets/images/logos/www_xiaoyuzhoufm_com.png
+  - title: 小鹅通
+    url: https://www.xiaoe-tech.com/
+    description: 小鹅通-知识产品与用户服务的私域运营工具
+    logo: assets/images/logos/www_xiaoe-tech_com.png
+  - title: 渐构
+    url: https://www.modevol.com/
+    description: 渐构 Modevol
+    logo: assets/images/logos/www_modevol_com.png
+  - title: 知识星球
+    url: https://wx.zsxq.com/
+    description: 知识星球 | 深度连接铁杆粉丝，运营高品质社群，知识变现的工具
+    logo: assets/images/logos/wx_zsxq_com.png
+  - title: Quora
+    url: https://www.quora.com/profile/Quora
+    description: Quora - Quora
+    logo: assets/images/logos/www_quora_com.png
+  - title: reddit
+    url: https://www.reddit.com/
+    description: reddit.com
+    logo: assets/images/logos/reddit.ico
+  - title: Coursera
 
 - taxonomy: 新闻资讯
   icon: fa-newspaper-o
@@ -339,38 +269,7 @@
     description: 财联社-主流财经新闻集团和财经通讯社-cls.cn
     logo: assets/images/logos/www_cls_cn.png
   
-- taxonomy: 常用网站
-  icon: fa-user-circle-o
-  links:
-  - title: 小报童
-    url: https://xiaobot.net/
-    description: 小报童
-    logo: assets/images/logos/xiaobot_net.png
-  - title: 小宇宙
-    url: https://www.xiaoyuzhoufm.com/
-    description: 小宇宙
-    logo: assets/images/logos/www_xiaoyuzhoufm_com.png
-  - title: 小鹅通
-    url: https://www.xiaoe-tech.com/
-    description: 小鹅通-知识产品与用户服务的私域运营工具
-    logo: assets/images/logos/www_xiaoe-tech_com.png
-  - title: 渐构
-    url: https://www.modevol.com/
-    description: 渐构 Modevol
-    logo: assets/images/logos/www_modevol_com.png
-  - title: 知识星球
-    url: https://wx.zsxq.com/
-    description: 知识星球 | 深度连接铁杆粉丝，运营高品质社群，知识变现的工具
-    logo: assets/images/logos/wx_zsxq_com.png
-  - title: Quora
-    url: https://www.quora.com/profile/Quora
-    description: Quora - Quora
-    logo: assets/images/logos/www_quora_com.png
-  - title: reddit
-    url: https://www.reddit.com/
-    description: reddit.com
-    logo: assets/images/logos/reddit.ico
-  - title: Coursera
+
     url: https://www.coursera.org/
     description: Coursera | Degrees, Certificates, & Free Online Courses
     logo: assets/images/logos/www_coursera_org.png
@@ -378,6 +277,109 @@
     description: 马克飞象 - 专为印象笔记打造的Markdown编辑器
     logo: assets/images/logos/maxiang_io.png
 
+- taxonomy: 其他导航
+  icon: fa-compass
+  links:
+  - title: fre123导航
+    url: https://fre123.com/
+    description: FRE123 免费资源共享平台
+    logo: assets/images/logos/7ee22e4c7dfb94b9af447b1041b2af70.vnd.microsoft.icon
+    
+  - title: 果汁排行榜
+    url: http://guozhivip.com/rank/
+    logo: assets/images/logos/gz.png
+    description: 果汁排行榜 - 各类榜单排名大全
+
+  - title: 优设导航
+    url: https://hao.uisdc.com/
+    description: 优设导航官网 - 设计导航 - 国内专业设计师网站导航
+    logo: assets/images/logos/hao_uisdc_com.png
+
+  - title: 网盘资源整合导航
+    url: https://www.wowenda.com/
+    description: 阿里云盘资源搜索-百度网盘搜索引擎 - 网盘之家导航
+    logo: assets/images/logos/www_wowenda_com.png
+
+  - title: 有趣网站之家
+    url: https://youquhome.com/
+    description: 有趣网址之家 - 收藏全球最有趣的网站
+    logo: assets/images/logos/youquhome_com.png
+
+  - title: 考拉新媒体导航
+    url: https://www.kaolamedia.com/hot
+    description: 微博热搜榜|百度热点资讯-新媒体热点话题-考拉新媒体导航
+    logo: assets/images/logos/www_kaolamedia_com.png
+
+  - title: AI导航站
+    url: https://www.ainav.cn/
+    description: AI导航网官网 - 国内外1000+AI工具,发现好用AI,为你导航未来
+    logo: assets/images/logos/www_ainav_cn.png
+
+  - title: AI 工具集
+    url: https://ai-bot.cn/
+    description: AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全
+    logo: assets/images/logos/ai-bot-favicon.png
+
+  - title: 大数据导航
+    url: http://hao.199it.com/
+    description: 大数据导航-大数据工具导航-199IT大数据导航-199IT大数据工具导航-Hao.199it.com
+    logo: assets/images/logos/hao_199it_com.png
+
+  - title: 营销热点日历
+    url: https://www.adguider.com/calendar
+    description: 营销热点日历
+    logo: assets/images/logos/www_adguider_com.png
+
+  - title: 果壳-科普网站
+    url: https://www.guokr.com/
+    description: 果壳 科技有意思
+    logo: assets/images/logos/www_guokr_com.png
+
+  - title: 医学微观
+    url: https://www.mvyxws.cn/
+    description: 医学微视
+    logo: assets/images/logos/www_mvyxws_cn.png
+
+  - title: 走读派-电子书导航
+    url: http://www.zoudupai.com/
+    description: 走读派读书导航 - 读书学习第一站！
+    logo: assets/images/logos/default.png
+
+  - title: 龙轩导航
+    url: http://ilxdh.com/
+    description: 龙轩导航-做个有用的导航
+    logo: assets/images/logos/ilxdh_com.png
+
+  - title: 52破解论坛
+    url: https://www.52pojie.cn/forum.php
+    description: 吾爱破解 - 52pojie.cn
+    logo: assets/images/logos/www_52pojie_cn.png
+
+  - title: 菜鸟工具
+    url: https://www.jyshare.com/
+    description: 菜鸟工具 - 不止于工具
+    logo: assets/images/logos/www_jyshare_com.png
+
+  - title: 在线工具
+    url: https://tool.lu/
+    description: 在线工具 - 你的工具箱
+    logo: assets/images/logos/tool_lu.png
+
+  - title: 在线工具
+    url: http://www.hiencode.com/
+    description: CTF在线工具-CTF工具|CTF编码|CTF密码学|CTF加解密|程序员工具|在线编解码
+    logo: assets/images/logos/www_hiencode_com.png
+
+  - title: wikiHow
+    url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
+    description: wikiHow：你可以信赖的万事指南
+    logo: assets/images/logos/zh_wikihow_com.png
+
+  - title: 图虫
+    url: https://search.chongbuluo.com/
+    description: 虫部落快搜 - 搜索快人一步
+    logo: assets/images/logos/search_chongbuluo_com.png
+  
 
 - taxonomy: 🧑‍💻程序员常用
   icon: fa-laptop
